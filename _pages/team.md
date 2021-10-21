@@ -3,7 +3,6 @@ layout: page
 title: 'Join the Team'
 permalink: /team/
 description: "Open roles to join the Technology Modernization Fund team."
-deck: 'Join us!'
 
 ---
 
