@@ -48,7 +48,4 @@ TMF projects are proposed in a two-phase process. The Initial Project Proposal (
 
 The Board will evaluate and recommend funding the proposals as appropriate. GSA, in coordination with OMB, will approve the terms of repayment. Repayment may not exceed 5 years unless approved by OMB. These process updates recognize the need to accelerate the project proposal process while continuing to enable a rigorous Board review.
 
-## Project Fees: 
-GSA will establish a TMF project fee schedule sufficient to meet administrative requirements to manage the Fund. GSA will generally review and update that fee schedule annually. GSA will also update that fee schedule, as appropriate, to manage the increased costs of a larger portfolio of projects. Additionally, GSA may introduce project fee caps intended to ensure projects with a high cost are paying an appropriate fee that is proportional to the TMF Program Management Office’s administrative workload.
-
 
