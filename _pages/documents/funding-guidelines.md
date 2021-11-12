@@ -40,10 +40,6 @@ Incremental transfers from the TMF may be covered by the same underlying written
 
 While the Modernizing Government Technology (MGT) Act authorizes incremental transfers of TMF funding, agencies must continue to comply with the recording statute and bona fide needs rule for TMF-funded projects, and so, agencies may not incrementally fund non-severable services contracts using transferred TMF funding unless they have legal authority to do so.
 
-## Administrative Costs:
-
-In addition to reimbursement of amounts transferred from the TMF, agencies will pay an administrative fee as determined by GSA in consultation with OMB.  The administrative fee covers the cost of operating the TMF including reviewing and recommending project proposals, support to the TMF Board and technical assistance to agencies in preparation of project proposals, monitoring projects and executing transfers. In addition, any optional project execution assistance or “embedded” GSA labor may be separately paid on a reimbursable basis using transferred project funds or any available agency funding.
-
 ## OMB Resource Management Office Review:
 
 Prior to final consideration by the Board, a proposed commitment of TMF funds must be submitted for preliminary OMB Resource Management Office (RMO) review, including the reimbursement plan. With GSA facilitation, the requesting agency must demonstrate their anticipated ability to fully reimburse or make partial or minimal reimbursement from within base resources (subject to the availability of out-year appropriations), including the Treasury account number(s) from which reimbursement will be derived, the planned reimbursement schedule and amount, specific identification of offsets or reductions to base resources as applicable, and planned out-year budget impacts. All reimbursements must be incorporated into the base of out-year budget submissions. Agencies may not plan to repay the TMF by requesting a topline increase in agency funding.
