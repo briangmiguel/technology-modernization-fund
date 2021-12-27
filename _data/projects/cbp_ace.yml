@@ -10,9 +10,9 @@
 
 - name        : "Automated Commercial Environment Collections Module"
   agency      : "U.S. Customs and Border Protection (CBP)"
-  status      : "First incremental transfer of $9,500,000.00 completed. Agency has awarded initial contracting actions."
+  status      : "First incremental transfer of $9,500,000, and second transfer of $5,500,000 completed, for a total of $15,000,000. Agency has awarded initial contracting actions."
   delay       : "No"
   cost        : "No"
-  totalaward  : "$15,000,000.00"
-  spendtodate : "$9,500,000.00"
+  totalaward  : "$15,000,000"
+  spendtodate : "$9,500,000"
   product     : "Yes"
