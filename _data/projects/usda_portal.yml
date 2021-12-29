@@ -10,9 +10,9 @@
 
 - name        : "Farmers.gov Portal"
   agency      : "U.S. Department of Agriculture (USDA)"
-  status      : "First Incremental transfer of $4,000,000.00 transferred. Agency has completed initial contracting actions."
+  status      : "First Incremental transfer of $4,000,000 transferred. Agency has completed initial contracting actions."
   delay       : "No"
   cost        : "No"
-  totalaward  : "$4,000,000.00"
-  spendtodate : "$4,000,000.00"
+  totalaward  : "$4,000,000"
+  spendtodate : "$4,000,000"
   product     : "Yes"
