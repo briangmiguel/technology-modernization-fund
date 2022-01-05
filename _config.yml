@@ -78,20 +78,17 @@ ga:
 primary_navigation:
   - name: Home
     url: /
-  - name: Blog
-    url: /blog/
-  - name: Document
-    url: /document/
-  - name: Document with sidenav
+  - name: Overview
     url: /document-with-sidenav/
-  - name: Document submenu
+  - name: Projects
+    url: /blog/
+  - name: About Us
     children:
-      - name: Navigation link
+      - name: Meet the Board
         url: "#main-content"
-      - name: Navigation link
+      - name: Join the Team
         url: "#main-content"
-      - name: Navigation link
-        url: "#main-content"
+
 
 secondary_navigation:
   - name: Secondary link
