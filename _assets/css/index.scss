@@ -4,16 +4,16 @@
 */
 
 // Example - Override the background image in the hero component using SASS:
-// $theme-hero-image: asset_path("whatever-the-default-is.png");
+$theme-hero-image: asset_path("hire-us.jpg");
 
 @import "uswds";
 
 // Example - Override the background image in the hero component using CSS:
-.usa-hero {
-  background-image: asset_url("hire-us.jpg")
-  background-position: 50%;
-  background-size: cover;
-}
+//.usa-hero {
+//  background-image: asset_url("hire-us.jpg")
+//  background-position: 50%;
+//  background-size: cover;
+//}
 
 /*
   Add your SASS/CSS here
