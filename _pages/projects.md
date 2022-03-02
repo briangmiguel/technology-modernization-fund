@@ -22,8 +22,8 @@ With Login.gov and MAX.gov, these awards will transform authentication for the f
 
 ## List of All Projects
 
-- [**Registration and Verification Modernization (SSS)**](#registration-and-verification-modernization)
 - [**IT Modernization (PRC)**](#it-modernization)
+- [**Registration and Verification Modernization (SSS)**](#registration-and-verification-modernization)
 - [**Zero Trust Networking (OPM)**](#zero-trust-networking)
 - [**Zero Trust Architecture (ED)**](#zero-trust-architecture)
 - [**Advancing Zero Trust (GSA)**](#advancing-zero-trust)
@@ -46,6 +46,17 @@ With Login.gov and MAX.gov, these awards will transform authentication for the f
 
 ---
 
+## IT Modernization
+
+{% include project-data.html path="prc_it_mod" %}
+As recommended by the Board, the GSA Expenditure Plan allocates $2,645,000 to the U.S. Postal Regulatory Commission (PRC) project for the purpose of modernizing the PRC website, docket, and data analysis tools, allowing the public to more easily access and participate in the Commission’s proceedings and equipping the PRC staff with the resources to more efficiently and effectively execute on its goal of providing transparent and effective oversight of the US Postal Service’s (USPS) operations.
+
+The PRC is a small agency with a big mission: independent oversight of the USPS, a global operation that delivered over 128 billion pieces of mail, including over 7 billion packages in FY 2021, and operates more than 34 thousand post offices. The pandemic, workforce shortages, and supply chain disruptions have posed urgent new challenges for the postal system and its ability to provide efficient and effective mail delivery for the American people. These developments and a surge in interest in postal matters have challenged the PRC’s capacity to carry out its mission of ensuring transparency and accountability of the Postal Service and fostering a vital and efficient universal mail system. These new demands have put significant pressure on PRC’s public facing website and docket system. This system is over 20 years old and is at imminent risk of failure. An antiquated data environment and analysis tools also force PRC economists to conduct analyses of massive volumes of data manually, hindering PRC’s ability to quickly and appropriately scale up oversight efforts to address the multiplying challenges.
+
+With TMF funding and support, the PRC team plans to replace its systems with cloud-based applications. The team will develop three key platforms: a new public-facing website, a modern docket system, and a data management system. This investment will empower PRC with the tools it needs to ensure that the USPS remains effective and responsive to the public in the face of unprecedented challenges. The operational benefits of this project include faster and more thorough analysis of data, a more navigable and user-friendly website, and reduced operation and maintenance costs.
+
+---
+
 ## Registration and Verification Modernization
 
 {% include project-data.html path="sss_reg_ver_mod" %}
@@ -57,19 +68,6 @@ The SSS is a small agency charged with registering all male U.S. citizens and ma
 The Agency will use this investment to migrate RCV to a cloud-first software and data architecture, enhance its cybersecurity protection and performance capabilities, and improve the application’s public-facing user experience. RCV, a High Value Asset(HVA), will be redesigned to a new modern architecture featuring continuous availability from redundant geographic locations, enhanced protection of Personally Identifiable Information (PII), and advanced data analytics, helping the Agency leverage registrant data to make timely and informed decisions that will ensure the fairness and equity of any future mobilization. Through this work, the project will transform the agency’s technical operations to both maintain a steady state of readiness, and to scale up rapidly when activated by Congress and the President.
 
 Operational benefits of this project include enhanced cybersecurity protections, reduced maintenance costs, improved system resiliency, and rapid operational scalability. The TMF is well-positioned to deliver rapid, timely funding for mission-critical modernization projects to small agencies like the SSS, and is excited for this project to further the federal government’s mission to strengthen cybersecurity and improve service delivery to the nation.
-
-
----
-
-## IT Modernization
-
-{% include project-data.html path="prc_it_mod" %}
-As recommended by the Board, the GSA Expenditure Plan allocates $2,645,000 to the U.S. Postal Regulatory Commission (PRC) project for the purpose of modernizing the PRC website, docket, and data analysis tools, allowing the public to more easily access and participate in the Commission’s proceedings and equipping the PRC staff with the resources to more efficiently and effectively execute on its goal of providing transparent and effective oversight of the US Postal Service’s (USPS) operations.
-
-The PRC is a small agency with a big mission: independent oversight of the USPS, a global operation that delivered over 128 billion pieces of mail, including over 7 billion packages in FY 2021, and operates more than 34 thousand post offices. The pandemic, workforce shortages, and supply chain disruptions have posed urgent new challenges for the postal system and its ability to provide efficient and effective mail delivery for the American people. These developments and a surge in interest in postal matters have challenged the PRC’s capacity to carry out its mission of ensuring transparency and accountability of the Postal Service and fostering a vital and efficient universal mail system. These new demands have put significant pressure on PRC’s public facing website and docket system. This system is over 20 years old and is at imminent risk of failure. An antiquated data environment and analysis tools also force PRC economists to conduct analyses of massive volumes of data manually, hindering PRC’s ability to quickly and appropriately scale up oversight efforts to address the multiplying challenges.
-
-With TMF funding and support, the PRC team plans to replace its systems with cloud-based applications. The team will develop three key platforms: a new public-facing website, a modern docket system, and a data management system. This investment will empower PRC with the tools it needs to ensure that the USPS remains effective and responsive to the public in the face of unprecedented challenges. The operational benefits of this project include faster and more thorough analysis of data, a more navigable and user-friendly website, and reduced operation and maintenance costs.
-
 
 ---
 
