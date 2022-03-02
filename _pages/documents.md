@@ -22,7 +22,11 @@ The Modernizing Government Technology (MGT) Act was passed December 12, 2017 as 
 
 ### Phase One, Initial Project Proposal (IPP)
 
-Use this template to prepare your initial proposal. _Do not complete any of the other project proposal templates until the Board has approved your Initial Project Proposal._
+Use this template to prepare your initial proposal. 
+
+Initial Project Proposals selected by the Technology Modernization Board (Board) for further consideration may receive assistance in developing an in-depth proposal and business case to present to the Board. Please avoid the use of acronyms or terminology likely to be unfamiliar to someone outside of your agency and/or program area. Please complete the form using plain language and submit to OMB, as a .docx file, at [ombtmf@omb.eop.gov](mailto:ombtmf@omb.eop.gov). Please limit Initial Project Proposals to 6 pages, using 10 point font (“General Information” excepted).
+
+_Do not complete any of the other project proposal templates until the Board has approved your Initial Project Proposal._
 
 - IPP Appendix A Template ([Word]({{ site.baseurl }}{% link _pages/documents/ipp-appendix-a-050321.docx %})) ([PDF]({{ site.baseurl }}{% link _pages/documents/pdfs/ipp-appendix-a-050321.pdf %}))
 
