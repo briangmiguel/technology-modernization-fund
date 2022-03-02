@@ -1,0 +1,18 @@
+# Project data
+# - Project Name
+# - Agency
+# - Project Status
+# - Schedule Delay
+# - Cost Overruns
+# - Total TMF Investment
+# - Payback Period (Years)
+# - Commercial Product
+
+- name        : "IT Modernization"
+  agency      : "U.S. Postal Regulatory Commission (PRC)"
+  status      : "Project selected for funding by Board. Initial transfer of $2,029,000 is in process."
+  delay       : "No"
+  cost        : "No"
+  totalaward  : "$2,645,000"
+  spendtodate : "$0"
+  product     : "Yes"
