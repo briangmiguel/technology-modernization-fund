@@ -61,7 +61,7 @@ With TMF funding and support, the PRC team plans to replace its systems with clo
 
 {% include project-data.html path="sss_reg_ver_mod" %}
 
-As recommended by the Board, the GSA Expenditure Plan allocates $5,988,807 to the Selective Service System’s (SSS) Registration Compliance, and Verification (RCV) project for the purpose of modernizing software to improve the resiliency of the application and enable the Agency to rapidly scale their technical operations to meet the nation’s needs.
+As recommended by the Board, the GSA Expenditure Plan allocates $5,988,807 to the Selective Service System’s (SSS) Registration, Compliance, and Verification (RCV) project for the purpose of modernizing software to improve the resiliency of the application and enable the Agency to rapidly scale their technical operations to meet the nation’s needs.
 
 The SSS is a small agency charged with registering all male U.S. citizens and male immigrants residing in the United States between the ages of 18 and 25. The agency’s registry is critical in the event of any national emergency requiring a mobilization for national defense. Annually, the SSS’s team of 115 manages over two million selective service registrations and approximately six million enrollment verification checks. This registration data also provides eligibility verification for student aid, over four million Federal civilian and local government jobs, free job training, and a potential streamlined process for citizenship.
 
