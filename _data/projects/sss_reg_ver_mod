@@ -1,0 +1,18 @@
+# Project data
+# - Project Name
+# - Agency
+# - Project Status
+# - Schedule Delay
+# - Cost Overruns
+# - Total TMF Investment
+# - Payback Period (Years)
+# - Commercial Product
+
+- name        : "Registration and Verification Modernization"
+  agency      : "U.S. Selective Service System (SSS)"
+  status      : "Project selected for funding by Board. Initial transfer of $1,837,615 is in process."
+  delay       : "No"
+  cost        : "No"
+  totalaward  : "$5,988,807"
+  spendtodate : "$0"
+  product     : "Yes"
