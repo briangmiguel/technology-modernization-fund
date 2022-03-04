@@ -2,7 +2,7 @@
 layout: page
 title: Investments
 permalink: /projects/
-description: "A list of all projects that have been awarded TMF funding."
+description: "A list of all investments that have been awarded TMF funding."
 deck: "The Technology Modernization Fund has invested in a total of 20 projects across 12 federal agencies. Nine of these investments were made with American Rescue Plan (ARP) funding to address urgent IT modernization challenges."
 
 ---
@@ -19,9 +19,7 @@ These investments are directly responsive to the president's Executive Order on 
 
 With Login.gov and MAX.gov, these investments will transform authentication for the federal government through shared services, providing for easy multi-factor authentication and an improved experience for millions of users. These investments are also directly responsive to the COVID-19 pandemic that has fundamentally changed how the federal government operates and interacts with the public. MAX.gov aims to improve interagency cooperation and communication, which is critical in a remote and hybrid environment, and the Department of Homeland Security aims to address issues uncovered by moving paper processes digitally and streamlining communications between agencies, improving their ability to respond to the COVID-19 pandemic.
 
-
-## List of All Projects
-
+## Active Investments
 - [**IT Modernization (PRC)**](#it-modernization)
 - [**Registration and Verification Modernization (SSS)**](#registration-and-verification-modernization)
 - [**Zero Trust Networking (OPM)**](#zero-trust-networking)
@@ -32,15 +30,17 @@ With Login.gov and MAX.gov, these investments will transform authentication for 
 - [**MAX.gov Transition (GSA)**](#maxgov-transition)
 - [**UNISYS Mainframe Migration (HUD)**](#unisys-mainframe-migration)
 - [**Enterprise Cloud Email (DOE)**](#enterprise-cloud-email)
-- [**Farmers.gov Portal (USDA)**](#farmersgov-portal)
-- [**Labor Certificate Processing Modernization (DOL)**](#labor-certificate-processing-modernization)
 - [**Application Modernization Integrating Flexible Architectures (GSA)**](#application-modernization-integrating-flexible-architectures)
-- [**Infrastructure Optimization and Cloud Adoption (USDA)**](#infrastructure-optimization-and-cloud-adoption)
-- [**NewPay Payroll and Work Schedule and Leave Management Software-as-a-Service (GSA)**](#newpay-payroll-and-work-schedule-and-leave-management-software-as-a-service)
 - [**Charge and Case Management System Modernization (EEOC)**](#charge-and-case-management-system-modernization)
 - [**Agricultural Marketing Service Specialty Crops System Modernization (USDA)**](#agricultural-marketing-service-specialty-crops-system-modernization)
 - [**Automated Commercial Environment Collections Module (CBP)**](#automated-commercial-environment-collections-module)
 - [**Data Modernization (DOL)**](#data-modernization)
+
+## Completed Investments
+- [**Farmers.gov Portal (USDA)**](#farmersgov-portal)
+- [**Infrastructure Optimization and Cloud Adoption (USDA)**](#infrastructure-optimization-and-cloud-adoption)
+- [**Labor Certificate Processing Modernization (DOL)**](#labor-certificate-processing-modernization)
+- [**NewPay Payroll and Work Schedule and Leave Management Software-as-a-Service (GSA)**](#newpay-payroll-and-work-schedule-and-leave-management-software-as-a-service)
 
 ###### Last updated: 3/7/2022
 
