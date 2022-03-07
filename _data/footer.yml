@@ -2,7 +2,7 @@
 # List links that should appear in the Footer
 - text: "Home"
   url: /
-- text: "Projects"
+- text: "Investments"
   url: /projects/
 - text: "Contact"
   url: /contact/

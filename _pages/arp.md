@@ -9,10 +9,10 @@ deck: 'Guidelines on the American Rescue Plan Funding.'
 
 ## Project Prioritization & Repayment Flexibility Criteria
 
-Please reference the below when filling out the TMF Initial Project Proposal Template. Proposals sent to [ofcio@omb.eop.gov](mailto:ofcio@omb.eop.gov) by Wednesday, June 2, 2021 will receive expedited consideration.
+Please reference the below when filling out the TMF Initial Project Proposal Template. 
 
 Initial Project Proposals (IPPs) will be reviewed on a rolling basis. If you intend to submit a proposal, we encourage you to notify the TMF Program Management Office at [tmf@gsa.gov](mailto:tmf@gsa.gov) early so that the PMO is able to support your team through the entire TMF application and review process.
-Once the IPP is approved, agency teams will have three weeks to submit a Full Project Proposal (FPP). 
+If an IPP is advanced to the next stage, agency teams will have three weeks to submit a Full Project Proposal (FPP). 
 
 
 ## Prioritization of Funding

@@ -8,11 +8,11 @@
 # - Payback Period (Years)
 # - Commercial Product
 
-- name        : "Zero Trust Networking"
-  agency      : "U.S. Office of Personnel Management (OPM)"
-  status      : "First incremental transfer of $5,000,000 transferred. Agency has begun contracting actions."
+- name        : "IT Modernization"
+  agency      : "U.S. Postal Regulatory Commission (PRC)"
+  status      : "Project selected for funding by Board. Initial transfer of $2,029,000 is in process."
   delay       : "No"
   cost        : "No"
-  totalaward  : "$9,900,000"
+  totalaward  : "$2,645,000"
   spendtodate : "$0"
   product     : "Yes"

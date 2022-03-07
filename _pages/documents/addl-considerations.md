@@ -8,7 +8,7 @@ description: "Additional Considerations for Technology Modernization Fund Projec
 
 This document is intended to be a resource for agencies planning to submit Initial Project Proposals to the Technology Modernization Board (Board). The categories and questions listed below are intended to be a supplement to Appendix B of the Guidance: Relevant Considerations in Preparing an Initial Project Proposal. The additional considerations below are neither an exhaustive list of all concerns the Board will weigh when considering whether or not to recommend funding for a project, nor will all considerations be applicable to all agency project proposals. Rather, agencies are encouraged to review the material below to become familiar with the types of questions and concerns the Board is most likely to raise.
 
-Questions regarding Additional Considerations should be directed to ofcio@omb.eop.gov.
+Questions regarding Additional Considerations should be directed to [ombtmf@omb.eop.gov](mailto:ombtmf@omb.eop.gov).
 
 [**Download as PDF**]({{ site.baseurl }}{% link _pages/documents/pdfs/addl_considerations.pdf %})
 

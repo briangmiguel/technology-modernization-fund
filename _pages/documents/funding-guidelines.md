@@ -6,7 +6,7 @@ description: "Funding Guidelines for Agencies Receiving Disbursements from the T
 
 ---
 				
-These instructions are intended to provide agencies a framework and guidelines for repaying the Technology Modernization Fund (TMF). Questions regarding Repayment Guidelines should be directed to [ofcio@omb.eop.gov](mailto:ofcio@omb.eop.gov).
+These instructions are intended to provide agencies a framework and guidelines for repaying the Technology Modernization Fund (TMF). Questions regarding Repayment Guidelines should be directed to [ombtmf@omb.eop.gov](mailto:ombtmf@omb.eop.gov).
 				
 ## Overview:
 
@@ -50,7 +50,7 @@ Project proposals must include a reliable estimate of project-related costs and 
 
 Consistent with OMB Circular No. A-11, Capital Programming GuideView the PDF, credible cost estimates are vital for sound management decision making and for any program or project to succeed. Early emphasis on cost-estimating during the planning phase is critical to successful life cycle management of a program or project. As requirements and approaches vary based on the Agency’s mission, agencies must develop a cost estimating capability—collecting, managing, and sharing cost data that best meets their mission needs.2 Consistent with OMB Circular A-131, the term “cost savings” refers to “a reduction in actual expenditures below the projected level of costs to achieve a specific objective,” and the term “cost avoidance” refers to “an action taken in the immediate time frame that will decrease costs in the future.”
 
-## Reimbursement for Common platforms:
+## Reimbursement for Common Platforms:
 
 An agency with its own appropriate reimbursable authorities (not provided by the MGT Act) may request TMF funding to become a “managing partner”. A managing partner is an agency that acts as a centralized shared service provider, receiving TMF funds to host a common solution for which the managing partner charges a fee-for-service to participating agencies. The TMF written agreement will be between GSA and the managing partner, not between GSA and the partner agencies. The managing partner will handle collections of fee-for-service amounts under their own authorities and through separate agreements with partner agencies. The managing partner will be responsible for TMF reimbursement subject to the agreed upon terms regardless of payments made under separate agreements.
 
@@ -85,4 +85,4 @@ _If other planned reimbursement mechanisms do not materialize, reimbursement is 
 
 <a name="1"></a>_1._ Reimbursement subject to the availability of agency appropriations; for example, there may be particular circumstances (e.g., lapse in appropriations) where agency funds that otherwise would be available for reimbursement may not be for some period of time.
 
-<a name="2"></a>_2._ As part of regular operations, the Government Accountability Office (GAO) will be conducting a biannual audit of all awarded Technology Fund Modernization projects to evaluate each agency project team’s cost estimation and cost savings methodology. The first report was issued on December 12, 2019. GAO will evaluate agency cost estimates against GAO’s own cost estimating best practices as defined in [GAO-09-3SP GAO Cost Estimating and Assessment Guide](https://www.gao.gov/new.items/d093sp.pdf).
+<a name="2"></a>_2._ As part of regular operations, the Government Accountability Office (GAO) will be conducting a biannual audit of all invested in Technology Fund Modernization projects to evaluate each agency project team’s cost estimation and cost savings methodology. The first report was issued on December 12, 2019. GAO will evaluate agency cost estimates against GAO’s own cost estimating best practices as defined in [GAO-20-195G GAO Cost Estimating and Assessment Guide](https://www.gao.gov/assets/gao-20-195g.pdf).

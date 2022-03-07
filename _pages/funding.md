@@ -54,7 +54,7 @@ Project proposals must include a reliable estimate of project-related costs and 
 
 Consistent with OMB Circular No. A-11, Capital Programming GuideView the PDF, credible cost estimates are vital for sound management decision making and for any program or project to succeed. Early emphasis on cost-estimating during the planning phase is critical to successful life cycle management of a program or project. As requirements and approaches vary based on the Agency’s mission, agencies must develop a cost estimating capability—collecting, managing, and sharing cost data that best meets their mission needs.2 Consistent with OMB Circular A-131, the term “cost savings” refers to “a reduction in actual expenditures below the projected level of costs to achieve a specific objective,” and the term “cost avoidance” refers to “an action taken in the immediate time frame that will decrease costs in the future.”
 
-## Reimbursement for Common platforms:
+## Reimbursement for Common Platforms:
 
 An agency with its own appropriate reimbursable authorities (not provided by the MGT Act) may request TMF funding to become a “managing partner”. A managing partner is an agency that acts as a centralized shared service provider, receiving TMF funds to host a common solution for which the managing partner charges a fee-for-service to participating agencies. The TMF written agreement will be between GSA and the managing partner, not between GSA and the partner agencies. The managing partner will handle collections of fee-for-service amounts under their own authorities and through separate agreements with partner agencies. The managing partner will be responsible for TMF reimbursement subject to the agreed upon terms regardless of payments made under separate agreements.
 

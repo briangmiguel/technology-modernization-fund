@@ -10,9 +10,9 @@
 
 - name        : "Charge and Case Management System Modernization"
   agency      : "U.S. Equal Employment Opportunity Commission (EEOC)"
-  status      : "First incremental transfer of $2,000,000 transferred. Agency has awarded initial contract actions."
+  status      : "First incremental transfer of $2,000,000 transferred. Second transfer of $2,000,000 is in process. Agency has awarded initial contract actions."
   delay       : "No"
   cost        : "No"
   totalaward  : "$4,000,000"
-  spendtodate : "$1,989,061.08"
+  spendtodate : "$2,000,000"
   product     : "Yes"
