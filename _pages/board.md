@@ -68,10 +68,6 @@ Services Administration. Mr. Shive oversees the GSA IT organization, and is resp
 
 ## Alternate Board Members
 
-**Maria Roat, Deputy Federal Chief Information Officer, Office of Management and Budget**
-
-{% include board-member.html path="headshots/roat.jpg" alt-text="Maria A. Roat" %} Maria Roat became the Deputy Federal Chief Information Officer in May 2020 bringing 35+ years of professional experience in information technology experience.  She previously served for 3.5 years as the Small Business Administration’s Chief Information Officer.  Prior to this, Ms. Roat served more than 2 years as the U.S. Department of Transportation Chief Technology Officer, and 10 years at the Department of Homeland Security in a number of capacities. Ms. Roat retired from the U.S. Navy in 2007, with 26 years of active duty and reserve service, where she obtained the rank of Master Chief Petty Officer, Information Systems Technician.
-
 **Chris DeRusha, Federal Chief Information Security Officer, Office of Management and Budget**
 
 {% include board-member.html path="headshots/derusha.jpg" alt-text="Chris DeRusha" %} Chris DeRusha was most recently the Chief Information Security Officer for the Biden-Harris campaign. Prior to joining the campaign in June 2020, he served as the Chief Security Officer for the State of Michigan. DeRusha has extensive experience managing cybersecurity and critical infrastructure programs and operations both in the public and private sectors. DeRusha led Ford Motor Company's Enterprise Vulnerability Management program and has over eight years of Federal Government experience working both at the Office of Management and Budget and the U.S. Department of Homeland Security.
@@ -90,11 +86,3 @@ Harrison has 20 years of operational procurement experience with various IRS, DH
 **Sean Connelly, Trusted Internet Connections Program Manager, Cybersecurity and Infrastructure Security Agency, Department of Homeland Security**
 
 {% include board-member.html path="headshots/connelly.jpg" alt-text="Sean Connelly" %} Sean Connelly serves as the Trusted Internet Connections (TIC) Program Manager at the Cybersecurity and Infrastructure Security Agency (CISA) within the Department of Homeland Security (DHS). Mr. Connelly leads the federal government’s strategy to securely protect government networks that connect to the Internet and cloud providers. Mr. Connelly joined DHS in 2013 and has served in a variety of roles, including the development of TIC 1, 2 and 3, along with the deployment of CISA’s sensor capabilities (operationally known as EINSTEIN 3A), and was part of the initial architectural team that stood-up the Continuous Diagnostics and Mitigation program. Additionally, Mr. Connelly was a lead author on the ‘IT Modernization Report to the President’ in 2017, as well as a co-author of NIST’s Special Publicization towards ‘Zero Trust Architectures’ in 2019. Mr. Connelly has over 20 years of experience in the IT and cybersecurity domain.
-
-
-**Sanjay Gupta, Chief Technology Officer, U.S. Small Business Administration**
-
-{% include board-member.html path="headshots/gupta.jpg" alt-text="Sanjay Gupta" %} Sanjay Gupta joined the U.S. Small Business Administration in January 2017 as Chief Technology Officer (CTO) from the private sector. Sanjay is a business driven, results oriented leader, adept at leveraging technology to innovate and deliver results quickly. He brings to SBA an exclusive combination of experiences as a CIO/CTO, Managing Partner Consulting, and as a Research Analyst. 
-As SBA’s CTO, Sanjay has led major 90-day transformations in each of the last four years. These modernization initiatives with inter-agency collaboration have not only benefited the SBA but have also informed change across the federal government landscape. 
-Throughout his career, Sanjay has led business/IT transformations across industries. He brings extensive global experience across industries in areas such as IT Strategy, Innovation, Digital Transformation, Architecture, Cloud, Cybersecurity, Agile Development and Open Source. 
-Sanjay has authored over 20 research white papers focused on advice and guidance for CIOs/Boards. He is a recognized industry thought leader, keynote presenter, speaker and author. 
