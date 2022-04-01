@@ -17,7 +17,7 @@ The TMF Board is made up of 7 voting members:
 - A member of the Department of Homeland Security’s (DHS) Cybersecurity and Infrastructure Security Agency (CISA)
 - Four employees of the Federal Government primarily having technical expertise in information technology development, financial management, cybersecurity and privacy, and acquisition
 
-Additionally, six alternate board members with expertise in information technology, cybersecurity, and acquisition provide added insight and can stand in as a voting board member. 
+Additionally, four alternate board members with expertise in information technology, cybersecurity, and acquisition provide added insight and can stand in as a voting board member. 
 
 ## Voting Board Members
 
