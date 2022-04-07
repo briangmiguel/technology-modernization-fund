@@ -47,7 +47,7 @@ With Login.gov and MAX.gov, these investments will transform authentication for 
 ---
 ## Veteran Identity Modernization
 
-{% include project-data.html path="va_id_mod" %}
+{% include project-data.html path="va-id-mod" %}
 This project will make it faster, cheaper, and easier for veterans to access VA services and benefits. Specifically, it will modernize the sign-in experience at VA, allowing eligible veterans to digitally access benefits and services more reliably and securely with Login.gov.
 
 VA digital services are used by millions of veterans every month. Veterans seeking to access VA services currently face a fragmented sign-in process that is confusing and hard to use – there are currently multiple sign-in pathways and four credential options with differing levels of compliance, security, and usability. This results in a poor user experience for digitally accessing benefits and services, high costs of licensing duplicative credentials, and increased fraud and security risks. 
