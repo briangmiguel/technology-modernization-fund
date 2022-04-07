@@ -3,7 +3,7 @@ layout: page
 title: Investments
 permalink: /projects/
 description: "A list of all investments that have been awarded TMF funding."
-deck: "The Technology Modernization Fund has invested in a total of 20 projects across 12 federal agencies. Nine of these investments were made with American Rescue Plan (ARP) funding to address urgent IT modernization challenges."
+deck: "The Technology Modernization Fund has invested in a total of 21 projects across 13 federal agencies. Ten of these investments were made with American Rescue Plan (ARP) funding to address urgent IT modernization challenges."
 
 ---
 
@@ -21,6 +21,7 @@ With Login.gov and MAX.gov, these investments will transform authentication for 
 
 ## List of All Investments
 
+- [**Veteran Identity Modernization (VA)**](#veteran-identity-modernization)
 - [**IT Modernization (PRC)**](#it-modernization)
 - [**Registration and Verification Modernization (SSS)**](#registration-and-verification-modernization)
 - [**Zero Trust Networking (OPM)**](#zero-trust-networking)
@@ -41,7 +42,17 @@ With Login.gov and MAX.gov, these investments will transform authentication for 
 - [**Automated Commercial Environment Collections Module (CBP)**](#automated-commercial-environment-collections-module)
 - [**Data Modernization (DOL)**](#data-modernization)
 
-###### Last updated: 3/7/2022
+###### Last updated: 4/22/2022
+
+---
+## Veteran Identity Modernization
+
+{% include project-data.html path="va_id_mod" %}
+This project will make it faster, cheaper, and easier for veterans to access VA services and benefits. Specifically, it will modernize the sign-in experience at VA, allowing eligible veterans to digitally access benefits and services more reliably and securely with Login.gov.
+
+VA digital services are used by millions of veterans every month. Veterans seeking to access VA services currently face a fragmented sign-in process that is confusing and hard to use – there are currently multiple sign-in pathways and four credential options with differing levels of compliance, security, and usability. This results in a poor user experience for digitally accessing benefits and services, high costs of licensing duplicative credentials, and increased fraud and security risks. 
+
+With TMF funding and support, VA will take three steps towards the implementation of a single, modern, and easy to use sign-in service at VA. First, this project will support the seamless transition of existing users to Login.gov. Second, VA will create an in-person identity verification option for veterans unable to sign up online. Finally, VA will pilot physical security keys for multi-factor authentication to improve accessibility and make digital services more secure. This investment will not only improve the experience of veterans accessing VA benefits and services, but also reduce VA costs and the risk of fraud.
 
 ---
 
