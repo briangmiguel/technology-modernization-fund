@@ -8,11 +8,11 @@
 # - Payback Period (Years)
 # - Commercial Product
 
-- name        : "NewPay Payroll and Work Schedule and Leave Management Software-as-a-Service"
-  agency      : "General Services Administration (GSA)"
-  status      : "Closed."
+- name        : "Veteran Identity Modernization"
+  agency      : "U.S. Department of Veterans Affairs (VA)"
+  status      : "In progress."
   delay       : "No"
   cost        : "No"
-  totalaward  : "$7,316,786"
-  spendtodate : "$7,316,786"
+  totalaward  : "$10,550,000"
+  spendtodate : "$0"
   product     : "Yes"
