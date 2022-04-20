@@ -6,28 +6,26 @@ description: "Open roles to join the Technology Modernization Fund team."
 
 ---
 
-## Technology Modernization Fund: IT SPECIALIST
+## Technology Modernization Fund: IT SPECIALIST (CYBERSECURITY)
 
-The Technology Modernization Fund (TMF) is hiring for the role of GS-14 IT Specialist Role. This is an opportunity to make a huge difference in the lives of the public. This page contains a high-level summary of the roles we are trying to fill. 
+The Technology Modernization Fund (TMF) is hiring for the role of GS-15 Cybersecurity expert. This is an opportunity to make a huge difference in the lives of the public.
 
 ### Opportunity overview
 
-These opportunities are located in the General Services Administration (GSA), Office of the Deputy Administrator, Technology Modernization Fund (TMF) Program Management Office (PMO). The TMF works closely with the TMF Board, GSA leadership, and agency teams to build and evaluate sound business cases for modernization investments, and provide technical advice and assistance throughout project execution. We help agencies make their services more accessible, efficient, and effective through strategic technical project investments and following modern software development best practices. 
+This opportunity is located in the General Services Administration (GSA), Office of the Deputy Administrator, Technology Modernization Fund (TMF) Program Management Office (PMO). The TMF works closely with the TMF Board, GSA leadership, and agency teams to build and evaluate sound business cases for modernization investments, and provide technical advice and assistance throughout project execution. We help agencies make their services more accessible, efficient, and effective through strategic technical project investments and following modern software development best practices. 
 
 #### Role summary
 
-Serves as an authoritative technical consultant to agencies. Engages with agencies to develop and revise important, complex and intricate IT policies, practices, products, services, and strategies based on laws, regulations, business needs, and user needs.
-
-Applies modern software development best practices to problems not susceptible to treatment by standard methods and makes decisions or recommendations significantly changing, interpreting, or developing important IT policies, programs, or initiatives. 
-
-Coordinates, presents, defends, and negotiates programs, projects, policies, and controversial issues of significant impact on supported and potential IT systems.
-Partners with customers to ensure projects and programs meet business and user needs and provides consultative support to improve business process/practices, in coordination with technology modernization and transformation initiatives.
+Serves as a Cybersecurity expert for the TMF PMO. This person will help set strategic direction for the Fund's cybersecurity investments. They will also develop criteria for assessing requests for investment, as well as participating in that assessment. 
+They will advise and participate in a Cybersecurity Working Group. They will act as primary interface with the CISO at Office of the Federal CIO and with the Cybersecurity and Infrastructure Security Agency (CISA).  
+They will analyze Executive Orders, OMB Memos and other directives to anticipate investment needs and priorities. 
+They will provide guidance and advice to investment projects on execution, analysis and procurement. 
 
 ### Basic information
 
-**Location:** Location Negotiable After Selection, United States
+**Location:** Location Negotiable After Selection, including possibility of full-time telework. United States
 
-**Salary range:** The salary range for this position is: GS-14, $95,973 - $124,764 per year.
+**Salary range:** The base salary range for this position is: GS-15, $112,890 - $146,757 per year. There will also be a location adjustment (see below). 
 
 Salary will be determined upon selection, depending on duty location. For specific details on locality pay, visit [OPM’s Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or [OPM’s 2021 General Schedule (GS) salary calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2021/general-schedule-gs-salary-calculator/).
 
@@ -37,7 +35,7 @@ Salary will be determined upon selection, depending on duty location. For specif
 **Travel requirement:** Occasional travel may be required up to 10%-20% per year
 
 **Security clearance:** 
-- Not Required
+- Top Secret Clearance
 
 **Work schedule: Full time**
 
