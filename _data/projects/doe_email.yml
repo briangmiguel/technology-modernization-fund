@@ -10,7 +10,9 @@
 
 - name        : "Enterprise Cloud Email"
   agency      : "Department of Energy (DOE)"
-  status      : "In progress."
+  status      : "Active"
+  transfer    : "Inactive"
+  repayment   : "Active"
   delay       : "No"
   cost        : "No"
   totalaward  : "$2,436,153"
