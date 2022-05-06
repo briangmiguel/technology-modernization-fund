@@ -10,7 +10,9 @@
 
 - name        : "High Value Asset (HVA) Mission Essential Systems"
   agency      : "National Archive and Records Administration (NARA)"
-  status      : "In progress."
+  status      : "Active"
+  transfer    : "Active"
+  repayment   : "Active"
   delay       : "No"
   cost        : "No"
   totalaward  : "$9,133,034"
