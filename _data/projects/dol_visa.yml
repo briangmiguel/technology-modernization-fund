@@ -10,7 +10,9 @@
 
 - name        : "Visa Application Transformation"
   agency      : "Department of Labor (DOL)"
-  status      : "Completed."
+  status      : "Inactive"
+  transfer    : "Inactive"
+  repayment   : "Active"
   delay       : "No"
   cost        : "No"
   totalaward  : "$3,500,000"
