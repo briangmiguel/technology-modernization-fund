@@ -21,7 +21,7 @@ With Login.gov and MAX.gov, these investments will transform authentication for 
 
 ## List of All Investments
 
-- [**High Value Asset (HVA) Mission Essential Systems (NARA)**](#high-value-asset-(HVA)-mission-essential-systems)
+- [**High Value Asset (HVA) Mission Essential Systems (NARA)**](#high-value-asset-mission-essential-systems)
 - [**Supply Chain Risk Response (USDA)**](#supply-chain-risk-response)
 - [**Veteran Identity Modernization (VA)**](#veteran-identity-modernization)
 - [**IT Modernization (PRC)**](#it-modernization)
@@ -48,7 +48,7 @@ With Login.gov and MAX.gov, these investments will transform authentication for 
 
 ---
 
-## High Value Asset (HVA) Mission Essential Systems
+## High Value Asset Mission Essential Systems
 
 {% include project-data.html path="nara-hva-sys" %}
 This project will digitize and transform the National Archive and Records Administration’s (NARA) paper-based fulfillment processes for citizen records requests, allowing for rapid retrieval and delivery of electronic copies of records to the public and other government agencies through secure, accessible web portals.
