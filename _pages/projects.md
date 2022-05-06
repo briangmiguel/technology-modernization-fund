@@ -3,7 +3,7 @@ layout: page
 title: Investments
 permalink: /projects/
 description: "A list of all investments that have been awarded TMF funding."
-deck: "The Technology Modernization Fund has invested in a total of 21 projects across 13 federal agencies. Ten of these investments were made with American Rescue Plan (ARP) funding to address urgent IT modernization challenges."
+deck: "The Technology Modernization Fund has invested in a total of 23 projects across 15 federal agencies. 11 of these investments were made with American Rescue Plan (ARP) funding to address urgent IT modernization challenges."
 
 ---
 
@@ -21,6 +21,8 @@ With Login.gov and MAX.gov, these investments will transform authentication for 
 
 ## List of All Investments
 
+- [**High Value Asset (HVA) Mission Essential Systems (NARA)**](#high-value-asset)
+- [**Supply Chain Risk Response (USDA)**](#supply-chain)
 - [**Veteran Identity Modernization (VA)**](#veteran-identity-modernization)
 - [**IT Modernization (PRC)**](#it-modernization)
 - [**Registration and Verification Modernization (SSS)**](#registration-and-verification-modernization)
@@ -42,9 +44,39 @@ With Login.gov and MAX.gov, these investments will transform authentication for 
 - [**Automated Commercial Environment Collections Module (CBP)**](#automated-commercial-environment-collections-module)
 - [**Data Modernization (DOL)**](#data-modernization)
 
-###### Last updated: 4/19/2022
+###### Last updated: 5/09/2022
 
 ---
+
+## High Value Asset (HVA) Mission Essential Systems
+
+{% include project-data.html path="nara-hva-sys" %}
+This project will digitize and transform the National Archive and Records Administration’s (NARA) paper-based fulfillment processes for citizen records requests, allowing for rapid retrieval and delivery of electronic copies of records to the public and other government agencies through secure, accessible web portals.
+
+NARA serves as the nation’s record keeper, holding federal records dating back to the Revolution. These include veterans’ military service and medical records as well as billions of other citizen records. Each year, NARA receives approximately 1.1 million records requests from veterans and their families who need to access benefits, as well as nearly 8 million records requests from over 400 Federal agencies that need to provide citizen services and fulfill their missions.
+
+Nearly all of these requested records are only available on paper, stored in records facilities located across the country. COVID-19 put significant pressure on these operations, limiting onsite processing capacity, creating a backlog of hundreds of thousands of records requests, and highlighting the need for a more responsive and modern record delivery process.
+
+With TMF investment and support, NARA will replace its legacy case management, reporting, and records information systems with cloud-based platforms. Among other benefits, this investment will allow veterans and their families to electronically request and receive their records, while supporting agency customers with greater responsiveness as they transition toward digital recordkeeping. It will also allow NARA staff to fulfill records requests remotely, fully digitally, and in a secure fashion.
+
+This project’s benefits include major improvements in customer experience, decreased processing time for records requests, and improved resilience in the face of future disruptions. By ensuring that NARA can provide Federal records more quickly and reliably, this TMF investment will help citizens to better exercise their rights and more quickly access government benefits to which they are due.
+
+
+---
+
+## Supply Chain Risk Response
+
+{% include project-data.html path="usda-sup-chain" %}
+This project will improve the US Department of Agriculture’s (USDA) threat monitoring, detection and response capabilities. It will help the Department move toward implementing a Zero Trust Architecture, better secure its shared services and sensitive data, and protect Department websites that connect citizens to vital services.
+
+USDA’s nearly 100,000 employees are spread across more than 4,500 locations across the country and abroad. Its 29 agencies and bureaus do critical work in areas ranging from rural development and forest management to nutrition programs, agricultural research, and international trade. It also houses the National Finance Center (NFC), which provides payroll services for over 600,000 employees and financial services for more than 40 agencies across the federal government. These vital functions all generate large volumes of sensitive information that require safeguarding. The SolarWinds attack underscored the need for enhanced response
+capabilities at USDA and across the government.
+
+With the TMF funding and support, USDA will implement a set of new software tools to improve the Department’s cybersecurity posture. These include applications that will enhance automated threat hunting and detection, improve visibility of encrypted network traffic, and reduce risks. Once implemented, this project will dramatically improve USDA’s ability to prevent, detect, and remediate any network intrusions at USDA and contribute to the security of the Federal enterprise. It will also allow the Department to deploy tools to protect its public-facing websites, ensuring that the public can reliably access information about farm loans, nutrition assistance,
+food safety inspections, and other key USDA offerings. These improvements will allow the agency to meet its obligations laid out in the Executive Order on Improving the Nation’s Cybersecurity.
+
+---
+
 ## Veteran Identity Modernization
 
 {% include project-data.html path="va-id-mod" %}
