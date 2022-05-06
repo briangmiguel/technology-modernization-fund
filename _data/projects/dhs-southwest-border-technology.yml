@@ -10,7 +10,9 @@
 
 - name        : "Southwest Border Technology Integration Program"
   agency      : "Department of Homeland Security (DHS)"
-  status      : "In progress."
+  status      : "Active"
+  transfer    : "Active"
+  repayment   : "Active"
   delay       : "No"
   cost        : "No"
   totalaward  : "$50,000,000"
