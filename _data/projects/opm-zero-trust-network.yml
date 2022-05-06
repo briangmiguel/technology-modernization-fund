@@ -10,7 +10,9 @@
 
 - name        : "Zero Trust Networking"
   agency      : "U.S. Office of Personnel Management (OPM)"
-  status      : "In progress."
+  status      : "Active"
+  transfer    : "Active"
+  repayment   : "Active"
   delay       : "No"
   cost        : "No"
   totalaward  : "$9,900,000"
