@@ -10,7 +10,9 @@
 
 - name        : "Registration and Verification Modernization"
   agency      : "U.S. Selective Service System (SSS)"
-  status      : "In progress."
+  status      : "Active"
+  transfer    : "Active"
+  repayment   : "Active"
   delay       : "No"
   cost        : "No"
   totalaward  : "$5,988,807"
