@@ -10,7 +10,9 @@
 
 - name        : "Zero Trust Architecture"
   agency      : "U.S. Department of Education (ED)"
-  status      : "In progress."
+  status      : "Active"
+  transfer    : "Active"
+  repayment   : "Active"
   delay       : "No"
   cost        : "No"
   totalaward  : "$20,000,000"
