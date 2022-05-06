@@ -10,7 +10,9 @@
 
 - name        : "NewPay Payroll and Work Schedule and Leave Management Software-as-a-Service"
   agency      : "General Services Administration (GSA)"
-  status      : "Closed."
+  status      : "Inactive"
+  transfer    : "Inactive"
+  repayment   : "Active"
   delay       : "No"
   cost        : "No"
   totalaward  : "$7,316,786"
