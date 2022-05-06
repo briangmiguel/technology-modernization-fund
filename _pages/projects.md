@@ -21,8 +21,8 @@ With Login.gov and MAX.gov, these investments will transform authentication for 
 
 ## List of All Investments
 
-- [**High Value Asset (HVA) Mission Essential Systems (NARA)**](#high-value-asset)
-- [**Supply Chain Risk Response (USDA)**](#supply-chain)
+- [**High Value Asset (HVA) Mission Essential Systems (NARA)**](#high-value-asset-(HVA)-mission-essential-systems)
+- [**Supply Chain Risk Response (USDA)**](#supply-chain-risk-response)
 - [**Veteran Identity Modernization (VA)**](#veteran-identity-modernization)
 - [**IT Modernization (PRC)**](#it-modernization)
 - [**Registration and Verification Modernization (SSS)**](#registration-and-verification-modernization)
