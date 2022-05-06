@@ -10,7 +10,9 @@
 
 - name        : "IT Modernization"
   agency      : "U.S. Postal Regulatory Commission (PRC)"
-  status      : "In progress."
+  status      : "Active"
+  transfer    : "Active"
+  repayment   : "Active"
   delay       : "No"
   cost        : "No"
   totalaward  : "$2,645,000"
