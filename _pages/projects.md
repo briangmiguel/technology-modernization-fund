@@ -51,7 +51,7 @@ With Login.gov and MAX.gov, these investments will transform authentication for 
 ## High Value Asset Mission Essential Systems
 
 {% include project-data.html path="nara-hva-sys" %}
-This project will digitize and transform the National Archive and Records Administration’s (NARA) paper-based fulfillment processes for citizen records requests, allowing for rapid retrieval and delivery of electronic copies of records to the public and other government agencies through secure, accessible web portals.
+This project will digitize and transform the National Archives and Records Administration’s (NARA) paper-based fulfillment processes for citizen records requests, allowing for rapid retrieval and delivery of electronic copies of records to the public and other government agencies through secure, accessible web portals.
 
 NARA serves as the nation’s record keeper, holding federal records dating back to the Revolution. These include veterans’ military service and medical records as well as billions of other citizen records. Each year, NARA receives approximately 1.1 million records requests from veterans and their families who need to access benefits, as well as nearly 8 million records requests from over 400 Federal agencies that need to provide citizen services and fulfill their missions.
 
