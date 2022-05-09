@@ -3,7 +3,7 @@ layout: page
 title: Investments
 permalink: /projects/
 description: "A list of all investments that have been awarded TMF funding."
-deck: "The Technology Modernization Fund has invested in a total of 23 projects across 15 federal agencies. 11 of these investments were made with American Rescue Plan (ARP) funding to address urgent IT modernization challenges."
+deck: "The Technology Modernization Fund has invested in a total of 23 projects across 14 federal agencies. 12 of these investments were made with American Rescue Plan (ARP) funding to address urgent IT modernization challenges."
 
 ---
 
@@ -67,13 +67,11 @@ This project’s benefits include major improvements in customer experience, dec
 ## Supply Chain Risk Response
 
 {% include project-data.html path="usda-sup-chain" %}
-This project will improve the US Department of Agriculture’s (USDA) threat monitoring, detection and response capabilities. It will help the Department move toward implementing a Zero Trust Architecture, better secure its shared services and sensitive data, and protect Department websites that connect citizens to vital services.
+This project will improve the US Department of Agriculture’s (USDA) threat monitoring, detection and response capabilities. This investment will help USDA move toward implementing a Zero Trust Architecture, better secure its shared services and sensitive data, and protect Department websites that connect citizens to vital services.
 
-USDA’s nearly 100,000 employees are spread across more than 4,500 locations across the country and abroad. Its 29 agencies and bureaus do critical work in areas ranging from rural development and forest management to nutrition programs, agricultural research, and international trade. It also houses the National Finance Center (NFC), which provides payroll services for over 600,000 employees and financial services for more than 40 agencies across the federal government. These vital functions all generate large volumes of sensitive information that require safeguarding. The SolarWinds attack underscored the need for enhanced response
-capabilities at USDA and across the government.
+USDA’s nearly 100,000 employees are spread across more than 4,500 locations across the country and abroad. Its 29 agencies and bureaus do critical work in areas ranging from rural development and forest management to nutrition programs, agricultural research, and international trade. It also houses the National Finance Center (NFC), which provides payroll services for over 600,000 employees and financial services for more than 40 agencies across the federal government. These vital functions all generate large volumes of sensitive information that require safeguarding. The SolarWinds attack underscored the need for enhanced response capabilities at USDA and across the government.
 
-With the TMF funding and support, USDA will implement a set of new software tools to improve the Department’s cybersecurity posture. These include applications that will enhance automated threat hunting and detection, improve visibility of encrypted network traffic, and reduce risks. Once implemented, this project will dramatically improve USDA’s ability to prevent, detect, and remediate any network intrusions at USDA and contribute to the security of the Federal enterprise. It will also allow the Department to deploy tools to protect its public-facing websites, ensuring that the public can reliably access information about farm loans, nutrition assistance,
-food safety inspections, and other key USDA offerings. These improvements will allow the agency to meet its obligations laid out in the Executive Order on Improving the Nation’s Cybersecurity.
+With the TMF funding and support, USDA will implement a set of new software tools to improve the USDA’s cybersecurity posture. These include applications that will enhance automated threat hunting and detection, improve visibility of encrypted network traffic, and reduce risks. Once implemented, this project will dramatically improve USDA’s ability to prevent, detect, and remediate any network intrusions at USDA and contribute to the security of the Federal enterprise. It will also allow USDA to deploy tools to protect its public-facing websites, ensuring that the public can reliably access information about farm loans, nutrition assistance, food safety inspections, and other key USDA offerings. These improvements will allow the agency to meet its obligations laid out in the Executive Order on Improving the Nation’s Cybersecurity.
 
 ---
 
