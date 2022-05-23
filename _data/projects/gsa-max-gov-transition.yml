@@ -10,7 +10,9 @@
 
 - name        : "MAX.gov Transition"
   agency      : "General Services Administration (GSA)"
-  status      : "In progress."
+  status      : "Active"
+  transfer    : "Active"
+  repayment   : "Active"
   delay       : "No"
   cost        : "No"
   totalaward  : "$14,500,000"

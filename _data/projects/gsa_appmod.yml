@@ -10,7 +10,9 @@
 
 - name        : "Application Modernization Integrating Flexible Architectures"
   agency      : "General Services Administration (GSA)"
-  status      : "In progress."
+  status      : "Active"
+  transfer    : "Inactive"
+  repayment   : "Active"
   delay       : "Yes; Project end date in FY22."
   cost        : "No"
   totalaward  : "$7,808,563"

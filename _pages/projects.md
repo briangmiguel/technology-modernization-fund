@@ -3,7 +3,7 @@ layout: page
 title: Investments
 permalink: /projects/
 description: "A list of all investments that have been awarded TMF funding."
-deck: "The Technology Modernization Fund has invested in a total of 21 projects across 13 federal agencies. Ten of these investments were made with American Rescue Plan (ARP) funding to address urgent IT modernization challenges."
+deck: "The Technology Modernization Fund has invested in a total of 23 projects across 14 federal agencies. 12 of these investments were made with American Rescue Plan (ARP) funding to address urgent IT modernization challenges."
 
 ---
 
@@ -21,6 +21,8 @@ With Login.gov and MAX.gov, these investments will transform authentication for 
 
 ## List of All Investments
 
+- [**High Value Asset (HVA) Mission Essential Systems (NARA)**](#high-value-asset-mission-essential-systems)
+- [**Supply Chain Risk Response (USDA)**](#supply-chain-risk-response)
 - [**Veteran Identity Modernization (VA)**](#veteran-identity-modernization)
 - [**IT Modernization (PRC)**](#it-modernization)
 - [**Registration and Verification Modernization (SSS)**](#registration-and-verification-modernization)
@@ -42,9 +44,37 @@ With Login.gov and MAX.gov, these investments will transform authentication for 
 - [**Automated Commercial Environment Collections Module (CBP)**](#automated-commercial-environment-collections-module)
 - [**Data Modernization (DOL)**](#data-modernization)
 
-###### Last updated: 4/19/2022
+###### Last updated: 5/23/2022
 
 ---
+
+## High Value Asset Mission Essential Systems
+
+{% include project-data.html path="nara-hva-sys" %}
+This project will digitize and transform the National Archives and Records Administration’s (NARA) paper-based fulfillment processes for citizen records requests, allowing for rapid retrieval and delivery of electronic copies of records to the public and other government agencies through secure, accessible web portals.
+
+NARA serves as the nation’s record keeper, holding federal records dating back to the American Revolution. These include veterans’ military service and medical records as well as billions of other citizen records. Each year, NARA receives approximately 1.1 million records requests from veterans and their families who need to access benefits, as well as nearly 8 million records requests from over 400 Federal agencies that need to provide citizen services and fulfill their missions.
+
+Nearly all of these requested records are only available on paper, stored in records facilities located across the country. COVID-19 put significant pressure on these operations, limiting onsite processing capacity, creating a backlog of hundreds of thousands of records requests, and highlighting the need for a more responsive and modern record delivery process.
+
+With TMF investment and support, NARA will replace its legacy case management, reporting, and records information systems with cloud-based platforms. Among other benefits, this investment will allow veterans and their families to electronically request and receive their records, while supporting agency customers with greater responsiveness as they transition toward digital recordkeeping. It will also allow NARA staff to fulfill records requests remotely, fully digitally, and in a secure fashion.
+
+This project’s benefits include major improvements in customer experience, decreased processing time for records requests, and improved resilience in the face of future disruptions. By ensuring that NARA can provide Federal records more quickly and reliably, this TMF investment will help citizens to better exercise their rights and more quickly access government benefits to which they are due.
+
+
+---
+
+## Supply Chain Risk Response
+
+{% include project-data.html path="usda-sup-chain" %}
+This project will improve the US Department of Agriculture’s (USDA) threat monitoring, detection and response capabilities. This investment will help USDA move toward implementing a Zero Trust Architecture, better secure its shared services and sensitive data, and protect Department websites that connect citizens to vital services.
+
+USDA’s nearly 100,000 employees are spread across more than 4,500 locations across the country and abroad. Its 29 agencies and bureaus do critical work in areas ranging from rural development and forest management to nutrition programs, agricultural research, and international trade. It also houses the National Finance Center (NFC), which provides payroll services for over 600,000 employees and financial services for more than 40 agencies across the federal government. These vital functions all generate large volumes of sensitive information that require safeguarding. The SolarWinds attack underscored the need for enhanced response capabilities at USDA and across the government.
+
+With the TMF funding and support, USDA will implement a set of new software tools to improve USDA’s cybersecurity posture. These include applications that will enhance automated threat hunting and detection, improve visibility of encrypted network traffic, and reduce risks. Once implemented, this project will dramatically improve USDA’s ability to prevent, detect, and remediate any network intrusions at USDA and contribute to the security of the Federal enterprise. It will also allow USDA to deploy tools to protect its public-facing websites, ensuring that the public can reliably access information about farm loans, nutrition assistance, food safety inspections, and other key USDA offerings. These improvements will allow the agency to meet its obligations laid out in the Executive Order on Improving the Nation’s Cybersecurity.
+
+---
+
 ## Veteran Identity Modernization
 
 {% include project-data.html path="va-id-mod" %}
@@ -167,7 +197,7 @@ Securing a TMF investment served as a catalyst inside the Department and led to 
 
 Maintaining multiple on-premises email environments not only drives up agency costs, but also increases the enterprise’s threat vector. Before starting this project, DOE operated 64 separate email systems (of which 45 were on-premises) that serviced approximately 184,387 mailboxes across the Department. Since FY 2018, DOE has completed moving 14 on-premises systems to cloud email, decommissioned one system, and established internally funded migration plans for 12 additional systems. DOE has been able to enhance its cybersecurity posture, reduce IT management and maintenance costs, and provide employees with a more robust email platform while migrating its email infrastructure to the cloud.  While the focus was on email migration, this project provides DOE residual benefits.  By leveraging Office 365 G5 licensing it not only supported DOE’s email requirements but the inherit capabilities within the Microsoft offering includes multiple collaboration capabilities (i.e., Teams, One Drive for Business) These capabilities will allow DOE to remove existing lines of demarcation and facilitate efficient, streamlined communications throughout the enterprise.  
 
-The Department originally requested $15,217,096 to complete the consolidation, upgrade, and migration effort for 26 on-premises systems (out of 45). The Department’s decision to pursue TMF funding served as a catalyst to garner support from federated labs and field offices, and enabled several DOE components to secure internal funding and move forward with migration efforts independently. DOE also identified 2,201 mailboxes that can be decommissioned, rather than migrated, due to the elimination of secondary email systems and other efficiencies. Due to the success of these efforts and additional internal investment, DOE completed the project with a reduced TMF funding amount of $2.4 million dollars. The project kicked off in Q4 2018 and as of Q1 2022, they have migrated 15,951 mailboxes to the cloud.
+The Department originally requested $15,217,096 to complete the consolidation, upgrade, and migration effort for 26 on-premises systems (out of 45). The Department’s decision to pursue TMF funding served as a catalyst to garner support from federated labs and field offices, and enabled several DOE components to secure internal funding and move forward with migration efforts independently. DOE also identified 2,201 mailboxes that can be decommissioned, rather than migrated, due to the elimination of secondary email systems and other efficiencies. Due to the success of these efforts and additional internal investment, DOE will complete the project with a reduced TMF funding amount of $2.4 million dollars. The project kicked off in Q4 2018 and as of Q1 2022, they have migrated 15,951 mailboxes to the cloud.
  
 Without this funding, DOE would have had to conduct the migration using a piecemeal approach requiring an elongated migration timeline.  With support from the TMF, the project was tackled as a single effort which accelerated the overall migration effort. The operational benefits of this project include cost avoidance, increased efficiency, improved cyber posture, and decreased operational risk.
  
@@ -179,7 +209,7 @@ Without this funding, DOE would have had to conduct the migration using a piecem
 
 {% include project-data.html path="usda_portal" %}
 
-This project began in July 2018 and was completed in May 2021. 
+This project began in July 2018 and was closed out in May 2021. 
 
 In 2017, USDA established the Farm Production and Conservation (FPAC) mission area that encompasses the work of the Farm Service Agency (FSA), the Natural Resources Conservation Service (NRCS), and the Risk Management Agency (RMA). Both FSA and NRCS provide financial and technical assistance to farmers and ranchers through related conservation programs. In an effort to consolidate interconnected systems and improve the end user experience, the Department planned to update and modernize conservation financial assistance and payment operations systems across FSA and NRCS. 
 
@@ -207,7 +237,7 @@ Over the course of two years, the team used an agile approach to improve systems
 
 {% include project-data.html path="gsa_appmod" %}
 
-In 2018, GSA had 88 IT applications in need of modernization. The applications had cumbersome, outdated user interfaces and were difficult to connect to other systems. Despite the need for transformation, GSA would have had to modernize legacy systems in a piecemeal fashion, as funding became available in annual budgets. With the support of the TMF and its investment of $9,816,833.00, the team could pursue a full and faster transformation of all planned applications, including at the hardware, database, and application layers. 
+In 2018, GSA had 88 IT applications in need of modernization. The applications had cumbersome, outdated user interfaces and were difficult to connect to other systems. Despite the need for transformation, GSA would have had to modernize legacy systems in a piecemeal fashion, as funding became available in annual budgets. With the support of the TMF and its investment of $7,808,563.00, the team could pursue a full and faster transformation of all planned applications, including at the hardware, database, and application layers. 
  
 Over the course of three years, GSA used a cross-functional Solutions Team with a deep understanding of the applications’ technical specifications and employed best-in-class agile methodologies. The team created a set of standard target technologies for all future application migrations. They generated various playbooks (Database Transformation and Sensitive Data Migration) that have already guided the modernization of 10 additional GSA applications and are accessible to all other government agencies.  This TMF project ultimately enabled GSA to develop greater agility, resiliency, scalability, and performance. In addition, it also allowed GSA greater flexibility in recruiting talent. In the long term, these outcomes promise to lower the cost of operations, improve the quality of GSA applications, and establish a repeatable process for modernizing legacy applications that can be leveraged across the government enterprise.
 
@@ -231,7 +261,7 @@ This project enabled the Department to consolidate their cloud expertise and lev
 
 {% include project-data.html path="gsa_newpay" %}
 
-This project has been completed. 
+This project began in December 2018 and was closed out in July 2021. 
 
 Federal payroll operations commonly rely on decades-old legacy software, which is costly and difficult to maintain. With support from the TMF, GSA created a minimum viable product (MVP) to address this need by leveraging software-as-a-service (SaaS) solutions, with the aim of laying a new foundation for an enterprise solution for human resource functions government wide. During the development of the MVP, GSA received the designation of Quality Service Management Office (QSMO) for Civilian HR Transaction Services for payroll and work schedule and leave management (WSLM), providing operational support for compensation management, work schedule, and leave management services. The HR QSMO continues to partner and collaborate with stakeholder groups, both withinOPM and across the federal human resources (HR) community, in the development of data standards to support the implementation of modern technical solutions within the Civilian HR Transactions marketplace.
 
@@ -248,7 +278,7 @@ This project will accelerate the modernization of EEOC’s charge and case manag
 
 EEOC anticipates it will have a greater ability to serve its mission by improving the basic functionality of its core charge and case management system, which will not only make EEOC's private and public sector operations more efficient but also benefit the Fair Employment Practice Agencies that rely on EEOC's system to manage their cases. In addition, applicants and employees seeking assistance from EEOC will be able to take advantage of end-to-end digital processing of their charges. 
 
-Without this funding, EEOC would need to complete this project over a period of five years. However, with the support from the TMF the project can be conducted in FY 2020 and FY 2021 as a single effort to replace the legacy system. By the end of this project, EEOC will have a modern, cloud-based core charge and case management system that will modernize both the underlying technology and achieve operational efficiencies that will decrease its current software licensing expenses and reduce other existing development and maintenance expenditures. The operational benefits of this project include increased efficiency, cost savings and improved citizen services.
+Without this funding, EEOC would need to complete this project over a period of five years. However, with the support from the TMF the project can be conducted in FY 2020 to FY 2022 as a single effort to replace the legacy system. By the end of this project, EEOC will have a modern, cloud-based core charge and case management system that will modernize both the underlying technology and achieve operational efficiencies that will decrease its current software licensing expenses and reduce other existing development and maintenance expenditures. The operational benefits of this project include increased efficiency, cost savings and improved citizen services.
 
 ---
 

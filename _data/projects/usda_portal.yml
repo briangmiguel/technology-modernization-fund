@@ -10,7 +10,9 @@
 
 - name        : "Farmers.gov Portal"
   agency      : "U.S. Department of Agriculture (USDA)"
-  status      : "In progress."
+  status      : "Inactive"
+  transfer    : "Inactive"
+  repayment   : "Active"
   delay       : "No"
   cost        : "No"
   totalaward  : "$4,000,000"

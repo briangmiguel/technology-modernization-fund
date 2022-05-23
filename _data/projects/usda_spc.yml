@@ -10,7 +10,9 @@
 
 - name        : "Agricultural Marketing Service Specialty Crops System Modernization"
   agency      : "Department of Agriculture (USDA)"
-  status      : "In progress."
+  status      : "Active"
+  transfer    : "Inactive"
+  repayment   : "Active"
   delay       : "No"
   cost        : "No"
   totalaward  : "$8,000,000"

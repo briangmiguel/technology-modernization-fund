@@ -10,7 +10,9 @@
 
 - name        : "Veteran Identity Modernization"
   agency      : "U.S. Department of Veterans Affairs (VA)"
-  status      : "In progress."
+  status      : "Active"
+  transfer    : "Active"
+  repayment   : "Active"
   delay       : "No"
   cost        : "No"
   totalaward  : "$10,550,000"

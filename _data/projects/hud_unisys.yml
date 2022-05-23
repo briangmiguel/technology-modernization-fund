@@ -10,7 +10,9 @@
 
 - name        : "UNISYS Mainframe Migration"
   agency      : "Housing and Urban Development (HUD)"
-  status      : "In progress."
+  status      : "Active"
+  transfer    : "Inactive"
+  repayment   : "Active"
   delay       : "Yes; project end date in Q2FY22."
   cost        : "No"
   totalaward  : "$13,850,013"

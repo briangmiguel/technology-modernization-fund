@@ -10,7 +10,9 @@
 
 - name        : "Automated Commercial Environment Collections Module"
   agency      : "U.S. Customs and Border Protection (CBP)"
-  status      : "In progress."
+  status      : "Active"
+  transfer    : "Inactive"
+  repayment   : "Active"
   delay       : "No"
   cost        : "No"
   totalaward  : "$15,000,000"

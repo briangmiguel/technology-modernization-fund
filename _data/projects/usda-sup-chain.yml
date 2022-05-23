@@ -8,13 +8,13 @@
 # - Payback Period (Years)
 # - Commercial Product
 
-- name        : "Southwest Border Technology Integration Program"
-  agency      : "Department of Homeland Security (DHS)"
+- name        : "Supply Chain Risk Response"
+  agency      : "U.S. Department of Agriculture (USDA)"
   status      : "Active"
   transfer    : "Active"
   repayment   : "Active"
   delay       : "No"
   cost        : "No"
-  totalaward  : "$50,000,000"
+  totalaward  : "$4,406,842"
   spendtodate : "$0"
-  product     : "No"
+  product     : "Yes"
