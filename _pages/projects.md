@@ -209,7 +209,7 @@ Without this funding, DOE would have had to conduct the migration using a piecem
 
 {% include project-data.html path="usda_portal" %}
 
-This project began in July 2018 and was completed in May 2021. 
+This project began in July 2018 and was closed out in May 2021. 
 
 In 2017, USDA established the Farm Production and Conservation (FPAC) mission area that encompasses the work of the Farm Service Agency (FSA), the Natural Resources Conservation Service (NRCS), and the Risk Management Agency (RMA). Both FSA and NRCS provide financial and technical assistance to farmers and ranchers through related conservation programs. In an effort to consolidate interconnected systems and improve the end user experience, the Department planned to update and modernize conservation financial assistance and payment operations systems across FSA and NRCS. 
 
