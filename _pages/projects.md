@@ -261,7 +261,7 @@ This project enabled the Department to consolidate their cloud expertise and lev
 
 {% include project-data.html path="gsa_newpay" %}
 
-This project has been completed. 
+This project began in December 2018 and was closed out in July 2021. 
 
 Federal payroll operations commonly rely on decades-old legacy software, which is costly and difficult to maintain. With support from the TMF, GSA created a minimum viable product (MVP) to address this need by leveraging software-as-a-service (SaaS) solutions, with the aim of laying a new foundation for an enterprise solution for human resource functions government wide. During the development of the MVP, GSA received the designation of Quality Service Management Office (QSMO) for Civilian HR Transaction Services for payroll and work schedule and leave management (WSLM), providing operational support for compensation management, work schedule, and leave management services. The HR QSMO continues to partner and collaborate with stakeholder groups, both withinOPM and across the federal human resources (HR) community, in the development of data standards to support the implementation of modern technical solutions within the Civilian HR Transactions marketplace.
 
