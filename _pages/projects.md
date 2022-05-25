@@ -22,7 +22,7 @@ With Login.gov and MAX.gov, these investments will transform authentication for 
 ## List of All Investments
 
 - [**High Value Asset (HVA) Mission Essential Systems (NARA)**](#high-value-asset-mission-essential-systems)
-- [**Supply Chain Risk Response (USDA)**](#supply-chain-risk-response)
+- [**Network Monitoring, Detection, and Response (USDA)**](#network-monitoring-detection-and-response)
 - [**Veteran Identity Modernization (VA)**](#veteran-identity-modernization)
 - [**IT Modernization (PRC)**](#it-modernization)
 - [**Registration and Verification Modernization (SSS)**](#registration-and-verification-modernization)
@@ -44,7 +44,7 @@ With Login.gov and MAX.gov, these investments will transform authentication for 
 - [**Automated Commercial Environment Collections Module (CBP)**](#automated-commercial-environment-collections-module)
 - [**Data Modernization (DOL)**](#data-modernization)
 
-###### Last updated: 5/23/2022
+###### Last updated: 5/25/2022
 
 ---
 
@@ -64,9 +64,9 @@ This project’s benefits include major improvements in customer experience, dec
 
 ---
 
-## Supply Chain Risk Response
+## Network Monitoring, Detection, and Response
 
-{% include project-data.html path="usda-sup-chain" %}
+{% include project-data.html path="usda-net-monitoring" %}
 This project will improve the US Department of Agriculture’s (USDA) threat monitoring, detection and response capabilities. This investment will help USDA move toward implementing a Zero Trust Architecture, better secure its shared services and sensitive data, and protect Department websites that connect citizens to vital services.
 
 USDA’s nearly 100,000 employees are spread across more than 4,500 locations across the country and abroad. Its 29 agencies and bureaus do critical work in areas ranging from rural development and forest management to nutrition programs, agricultural research, and international trade. It also houses the National Finance Center (NFC), which provides payroll services for over 600,000 employees and financial services for more than 40 agencies across the federal government. These vital functions all generate large volumes of sensitive information that require safeguarding. The SolarWinds attack underscored the need for enhanced response capabilities at USDA and across the government.
