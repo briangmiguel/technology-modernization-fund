@@ -3,7 +3,7 @@ layout: page
 title: Investments
 permalink: /projects/
 description: "A list of all investments that have been awarded TMF funding."
-deck: "The Technology Modernization Fund has invested in a total of 23 projects across 14 federal agencies. 12 of these investments were made with American Rescue Plan (ARP) funding to address urgent IT modernization challenges."
+deck: "The Technology Modernization Fund has invested in a total of 26 projects across 15 federal agencies. 15 of these investments were made with American Rescue Plan (ARP) funding to address urgent IT modernization challenges."
 
 ---
 
@@ -21,6 +21,9 @@ With Login.gov and MAX.gov, these investments will transform authentication for 
 
 ## List of All Investments
 
+- [**Network Modernization (USDANet) (USDA)**](#network-modernization)
+- [**Multi-Cloud Security Operations Center (FTC)**](#Multi-Cloud-Security-Operations-Center)
+- [**Information Sharing Modernization**](#information-sharing-modernization)
 - [**High Value Asset (HVA) Mission Essential Systems (NARA)**](#high-value-asset-mission-essential-systems)
 - [**Network Monitoring, Detection, and Response (USDA)**](#network-monitoring-detection-and-response)
 - [**Veteran Identity Modernization (VA)**](#veteran-identity-modernization)
@@ -44,23 +47,46 @@ With Login.gov and MAX.gov, these investments will transform authentication for 
 - [**Automated Commercial Environment Collections Module (CBP)**](#automated-commercial-environment-collections-module)
 - [**Data Modernization (DOL)**](#data-modernization)
 
-###### Last updated: 5/25/2022
+###### Last updated: 5/26/2022
 
 ---
 
-## High Value Asset Mission Essential Systems
+## Network Modernization
 
-{% include project-data.html path="nara-hva-sys" %}
-This project will digitize and transform the National Archives and Records Administration’s (NARA) paper-based fulfillment processes for citizen records requests, allowing for rapid retrieval and delivery of electronic copies of records to the public and other government agencies through secure, accessible web portals.
+{% include project-data.html path="usda-usdanet" %}
+This investment by the Technology Modernization Fund (TMF) in the U.S. Department of Agriculture (USDA) Network Modernization will deliver an updated, 21st-Century network that enables the USDA to better serve its customers over the next decade and beyond. The current network faces challenges in keeping up with expanded program needs for throughput and security.  With the support of the TMF, the USDA network will greatly improve reliability so that all USDA Mission Areas can meet their program needs. This investment will be used for the USDANet startup costs that reduces the number of USDA-owned and operated networks from 17 to 1 and will result in $734 million in estimated costs savings/avoidance.
 
-NARA serves as the nation’s record keeper, holding federal records dating back to the American Revolution. These include veterans’ military service and medical records as well as billions of other citizen records. Each year, NARA receives approximately 1.1 million records requests from veterans and their families who need to access benefits, as well as nearly 8 million records requests from over 400 Federal agencies that need to provide citizen services and fulfill their missions.
+Mission Areas like the Food Safety and Inspection Service, which delivers critical food safety data to industry, academia and the public through the Public Health Information System (PHIS), will benefit from faster, more consistent implementation of new security policies. USDANet will offer improved network security and a faster path to Trusted Internet Connection (TIC) 3.0 standards and Zero-Trust Architectures. This is critical in preventing cyber-attacks to operations in programs such as the Food, Nutrition, and Consumer Services which are responsible for the management, security, and distribution of $122 billion in the Supplemental Nutrition Assistance Program (SNAP) for American families experiencing food insecurity.
 
-Nearly all of these requested records are only available on paper, stored in records facilities located across the country. COVID-19 put significant pressure on these operations, limiting onsite processing capacity, creating a backlog of hundreds of thousands of records requests, and highlighting the need for a more responsive and modern record delivery process.
+The lowered total cost of ownership by the USDA means Mission Areas can allocate greater portions of their IT spending from basic infrastructure to public-facing applications that promote conservation, goodwill, and optimization of resources. It also enables USDA’s mission to provide economic opportunity through innovation, promotion of agricultural production that nourishes Americans while also feeding others throughout the world, and preserving our natural resources through conservation, restored forests, improved watersheds, smart agriculture, and healthy private working lands.
 
-With TMF investment and support, NARA will replace its legacy case management, reporting, and records information systems with cloud-based platforms. Among other benefits, this investment will allow veterans and their families to electronically request and receive their records, while supporting agency customers with greater responsiveness as they transition toward digital recordkeeping. It will also allow NARA staff to fulfill records requests remotely, fully digitally, and in a secure fashion.
+---
 
-This project’s benefits include major improvements in customer experience, decreased processing time for records requests, and improved resilience in the face of future disruptions. By ensuring that NARA can provide Federal records more quickly and reliably, this TMF investment will help citizens to better exercise their rights and more quickly access government benefits to which they are due.
+## Multi-Cloud Security Operations Center
 
+{% include project-data.html path="ftc-multi-cloud-socaas" %}
+This project will keep sensitive law enforcement, corporate competition filing, and American consumer data more secure and resilient to attack. FTC collects data from thousands of corporate merger filings and millions of consumer fraud complaints every year. Along with U.S. and International law enforcement partners, the FTC uses this data to promote competition and protect consumers. The data is under increasingly sophisticated attacks from multiple adversaries.
+
+To accomplish the project’s goal the FTC will procure a security operations center (SOC) as a service that modernizes existing government SOCs and allows for faster decision-making, a reduced vulnerability attack surface, and an improved repeatable foundation for future government-wide implementations of SOCaaS. The agency’s current SOC approach, like many others in government, is built for government operated data centers that don’t efficiently scale to address increasing numbers of alerts. 
+
+With the support of this TMF investment, the FTC will expedite its SOCaaS implementation using security services and trusted cloud service providers to host sensitive FTC data. This comprehensive approach will greatly reduce the risk of bad actors executing a ransomware or other cyber attack. It will also reduce the number of man hours currently expended to respond to indicators of cyber incidents. These hours could then be repurposed to continue improvements to the agency’s many operational systems for merger filing review and reporting of fraud. The agency is collaborating on this effort with other federal cyber security leaders to
+include the Department of Homeland Security to share best practices.
+
+---
+
+## Information Sharing Modernization
+
+{% include project-data.html path="dhs-info-sharing-mod" %}
+This project will help modernize DHS’ HSIN service to develop an updated and more secure platform for information sharing among first responders, law enforcement, and government partners in the event of natural disasters, security events, and other crises.
+
+Information sharing has been a core mission of DHS since its founding. Fulfilling that mission involves delivering timely intelligence and enabling real-time collaboration across a large and diverse number of organizations including federal, state, local, territorial, tribal, international, and
+private sector decision-makers, and first responders. HSIN played a pivotal role during the COVID-19 pandemic supporting coordination with hundreds of organizations for vaccine distribution, providing information, and coordinating operations. The network was used by FEMA, CISA, CDC, HHS, Fusion Centers, as well as additional state and local partners putting unprecedented pressure on DHS’s decade-old information sharing network and exposing limitations in its ability to manage growth in excess of 200% during the height of the pandemic.
+
+With TMF funding and support, DHS plans to rebuild its information sharing system as a cloud native platform with modern tools and technologies. The new platform will be capable of scaling up to meet peaks in demand during times of emergency while also offering significant new features including improved access and security; better content sharing and discoverability; and greater emphasis on connecting HSIN’s partners to each other for closer collaboration. DHS will also use the TMF investment to build a platform that is more responsive to a post pandemic work environment for users with easy and secure access on mobile platforms and other
+devices.
+
+This investment will accelerate DHS’ modernization of a system that is core to its mission. A system that is more flexible, offers a better user experience, and is less costly to maintain. The operational benefits of this project include building a stronger community of federal, state, local, tribal, territorial, international, and private sector partners for closer coordination, more effective
+emergency response, and improved national security.
 
 ---
 
