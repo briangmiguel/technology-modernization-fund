@@ -77,7 +77,7 @@ including the Department of Homeland Security, to share best practices.
 ## Information Sharing Modernization
 
 {% include project-data.html path="dhs-info-sharing-mod" %}
-This project will help modernize DHS’ HSIN service to develop an updated and more secure platform for information sharing among first responders, law enforcement, and government partners in the event of natural disasters, security events, and other crises.
+This project will help modernize DHS’ Homeland Security Information Network (HSIN) service to develop an updated and more secure platform for information sharing among first responders, law enforcement, and government partners in the event of natural disasters, security events, and other crises.
 
 Information sharing has been a core mission of DHS since its founding. Fulfilling that mission involves delivering timely intelligence and enabling real-time collaboration across a large and diverse number of organizations including federal, state, local, territorial, tribal, international, and private sector decision-makers, and first responders. HSIN played a pivotal role during the COVID-19 pandemic supporting coordination with hundreds of organizations for vaccine distribution, providing information, and coordinating operations. The network was used by the Federal Emergency Management Agency (FEMA), the Cybersecurity and Infrastructure Security Agency (CISA), the Center for Disease Control (CDC), the Department of Health and Human Services (HHS), and Fusion Centers, as well as additional state and local partners, putting unprecedented pressure on DHS’s decade-old information sharing network and exposing limitations in its ability to manage growth in excess of 200% during the height of the pandemic.
 
