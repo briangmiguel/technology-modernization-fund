@@ -69,8 +69,8 @@ This project will keep sensitive law enforcement, corporate competition filing, 
 
 To accomplish the project’s goal the FTC will procure a security operations center (SOC) as a service that modernizes existing government SOCs and allows for faster decision-making, a reduced vulnerability attack surface, and an improved repeatable foundation for future government-wide implementations of SOCaaS. The agency’s current SOC approach, like many others in government, is built for government operated data centers that don’t efficiently scale to address increasing numbers of alerts. 
 
-With the support of this TMF investment, the FTC will expedite its SOCaaS implementation using security services and trusted cloud service providers to host sensitive FTC data. This comprehensive approach will greatly reduce the risk of bad actors executing a ransomware or other cyber attack. It will also reduce the number of man hours currently expended to respond to indicators of cyber incidents. These hours could then be repurposed to continue improvements to the agency’s many operational systems for merger filing review and reporting of fraud. The agency is collaborating on this effort with other federal cyber security leaders to
-include the Department of Homeland Security to share best practices.
+With the support of this TMF investment, the FTC will expedite its SOCaaS implementation using security services and trusted cloud service providers to host sensitive FTC data. This comprehensive approach will greatly reduce the risk of bad actors executing a ransomware or other cyber attack. It will also reduce the number of man hours currently expended to respond to indicators of cyber incidents. These hours could then be repurposed to continue improvements to the agency’s many operational systems for merger filing review and reporting of fraud. The agency is collaborating on this effort with other federal cyber security leaders, 
+including the Department of Homeland Security, to share best practices.
 
 ---
 
