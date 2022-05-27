@@ -22,7 +22,7 @@ With Login.gov and MAX.gov, these investments will transform authentication for 
 ## List of All Investments
 
 - [**Network Modernization (USDANet) (USDA)**](#network-modernization)
-- [**Multi-Cloud Security Operations Center (FTC)**](#Multi-Cloud-Security-Operations-Center)
+- [**Multi-Cloud Security Operations Center (FTC)**](#multi-Cloud-Security-Operations-Center)
 - [**Information Sharing Modernization (DHS)**](#information-sharing-modernization)
 - [**High Value Asset (HVA) Mission Essential Systems (NARA)**](#high-value-asset-mission-essential-systems)
 - [**Network Monitoring, Detection, and Response (USDA)**](#network-monitoring-detection-and-response)
