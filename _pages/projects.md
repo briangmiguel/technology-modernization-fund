@@ -360,7 +360,9 @@ Without this funding, DOL could not accelerate development of an enterprise appr
 ## Classified Projects
 
 {% include project-data-classified.html path="class_proj" %}
-Details on classified projects are not included here. If you have questions about a classified project, please contact [tmf@gsa.gov](mailto:tmf@gsa.gov).   
+Details on classified projects are not included here. If you have questions about a classified project, please contact [tmf@gsa.gov](mailto:tmf@gsa.gov). 
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
 <p>&nbsp;</p> 
 
 ---
