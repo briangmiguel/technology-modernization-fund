@@ -54,7 +54,7 @@ With Login.gov and MAX.gov, these investments will transform authentication for 
 ## Network Modernization
 
 {% include project-data.html path="usda-usdanet" %}
-This investment by the TMF in the U.S. Department of Agriculture (USDA) Network Modernization will deliver an updated, 21st-Century network that enables the USDA to better serve its customers over the next decade and beyond. The current network faces challenges in keeping up with expanded program needs for throughput and security.  With the support of the TMF, the USDA network will greatly improve reliability so that all USDA Mission Areas can meet their program needs. This investment will be used for the USDANet startup costs that reduces the number of USDA-owned and operated networks from 17 to 1 and will result in $734 million in estimated costs savings/avoidance.
+This investment by the TMF in the U.S. Department of Agriculture Network Modernization (USDANet) will deliver an updated, 21st-Century network that enables the USDA to better serve its customers over the next decade and beyond. The current network faces challenges in keeping up with expanded program needs for throughput and security.  With the support of the TMF, the USDA network will greatly improve reliability so that all USDA Mission Areas can meet their program needs. This investment will be used for the USDANet startup costs that reduces the number of USDA-owned and operated networks from 17 to 1 and will result in $734 million in estimated costs savings/avoidance.
 
 Mission Areas like the Food Safety and Inspection Service, which delivers critical food safety data to industry, academia and the public through the Public Health Information System (PHIS), will benefit from faster, more consistent implementation of new security policies. USDANet will offer improved network security and a faster path to Trusted Internet Connection (TIC) 3.0 standards and Zero-Trust Architectures. This is critical in preventing cyber-attacks to operations in programs such as the Food, Nutrition, and Consumer Services which are responsible for the management, security, and distribution of $122 billion in the Supplemental Nutrition Assistance Program (SNAP) for American families experiencing food insecurity.
 
@@ -88,6 +88,21 @@ This investment will accelerate DHS’ modernization of a system that is core to
 
 ---
 
+## High Value Asset Mission Essential Systems
+
+{% include project-data.html path="nara-hva-sys" %}
+This project will digitize and transform the National Archives and Records Administration’s (NARA) paper-based fulfillment processes for citizen records requests, allowing for rapid retrieval and delivery of electronic copies of records to the public and other government agencies through secure, accessible web portals.
+
+NARA serves as the nation’s record keeper, holding federal records dating back to the American Revolution. These include veterans’ military service and medical records as well as billions of other citizen records. Each year, NARA receives approximately 1.1 million records requests from veterans and their families who need to access benefits, as well as nearly 8 million records requests from over 400 Federal agencies that need to provide citizen services and fulfill their missions.
+
+Nearly all of these requested records are only available on paper, stored in records facilities located across the country. COVID-19 put significant pressure on these operations, limiting onsite processing capacity, creating a backlog of hundreds of thousands of records requests, and highlighting the need for a more responsive and modern record delivery process.
+
+With TMF investment and support, NARA will replace its legacy case management, reporting, and records information systems with cloud-based platforms. Among other benefits, this investment will allow veterans and their families to electronically request and receive their records, while supporting agency customers with greater responsiveness as they transition toward digital recordkeeping. It will also allow NARA staff to fulfill records requests remotely, fully digitally, and in a secure fashion.
+
+This project’s benefits include major improvements in customer experience, decreased processing time for records requests, and improved resilience in the face of future disruptions. By ensuring that NARA can provide Federal records more quickly and reliably, this TMF investment will help citizens to better exercise their rights and more quickly access government benefits to which they are due.
+
+---
+
 ## Network Monitoring, Detection, and Response
 
 {% include project-data.html path="usda-net-monitoring" %}
@@ -118,7 +133,6 @@ This project will modernize the Postal Regulatory Commission’s (PRC) website, 
 The PRC is a small agency with a big mission: independent oversight of the USPS, a global operation that delivered over 128 billion pieces of mail, including over 7 billion packages in FY 2021, and operates more than 34 thousand post offices. The pandemic, workforce shortages, and supply chain disruptions have posed urgent new challenges for the postal system and its ability to provide efficient and effective mail delivery for the American people. These developments and a surge in interest in postal matters have challenged the PRC’s capacity to carry out its mission of ensuring transparency and accountability of the Postal Service and fostering a vital and efficient universal mail system. These new demands have put significant pressure on PRC’s public facing website and docket system. This system is over 20 years old and is at imminent risk of failure. An antiquated data environment and analysis tools also force PRC economists to conduct analyses of massive volumes of data manually, hindering PRC’s ability to quickly and appropriately scale up oversight efforts to address the multiplying challenges.
 
 With TMF funding and support, the PRC team plans to replace its systems with cloud-based applications. The team will develop three key platforms: a new public-facing website, a modern docket system, and a data management system. This investment will empower PRC with the tools it needs to ensure that the USPS remains effective and responsive to the public in the face of unprecedented challenges. The operational benefits of this project include faster and more thorough analysis of data, a more navigable and user-friendly website, and reduced operation and maintenance costs.
-
 
 ---
 
