@@ -46,8 +46,9 @@ With Login.gov and MAX.gov, these investments will transform authentication for 
 - [**Agricultural Marketing Service Specialty Crops System Modernization (USDA)**](#agricultural-marketing-service-specialty-crops-system-modernization)
 - [**Automated Commercial Environment Collections Module (CBP)**](#automated-commercial-environment-collections-module)
 - [**Data Modernization (DOL)**](#data-modernization)
+- [**Classified Projects**](#classified-projects)
 
-###### Last updated: 5/26/2022
+###### Last updated: 6/10/2022
 
 ---
 
@@ -353,5 +354,11 @@ This project will modernize DOL’s enterprise data management and analytics cap
 Currently, DOL faces data quality, consistency, and availability issues which limit the Department’s ability to use it to drive organizational performance improvements. The proposed DOL project will 1) incorporate enterprise-standard predictive analytics and reporting capabilities into the DOL IT Platform, 2) implement enterprise data management capabilities and 3) support an application programming interface (API) and public-facing data portal to transform how the DOL shares data, both internally and with the public. This project will also support DOL’s mission areas and deploy resources in a manner which maximizes organizational performance. Furthermore, this project will enable DOL to integrate duplicative data services leading to reduced operations and maintenance and human capital expenses associated with maintaining them.
 
 Without this funding, DOL could not accelerate development of an enterprise approach to improving data quality and expanding the number of data sets available internally and to the public. However, with the support from the TMF, the project can be advanced as an enterprise initiative over two years, building an essential foundation. By the end of this project, DOL will unlock the department’s enterprise data sources, create data management capacity, and ensure timely delivery of appropriate information to the right DOL staff and customers in a secure manner. This transformation enables an evidence-based decision-making approach across enforcement, compliance, unemployment insurance and other DOL mission areas. The operational benefits of this project include cost savings, increased efficiency, and improved services for the public.
+
+---
+
+## Classified Projects
+
+{% include project-data.html path="class_proj" %}
 
 \* *For agencies using an assisted acquisition strategy, reporting does not include funding obligated to the assisted acquisition provider but not yet awarded to a contract.*  
