@@ -36,4 +36,5 @@ Once the Board has approved your IPP, use the templates below to complete your F
 
 - FPP Appendix A Template ([Word]({{ site.baseurl }}{% link _pages/documents/fpp-appendix-a-061118.docx %})) ([PDF]({{ site.baseurl }}{% link _pages/documents/pdfs/fpp-appendix-a-061118.pdf %})) 
 - FPP Appendix B Template ([Excel]({{ site.baseurl }}{% link _pages/documents/fpp-appendix-b-122220.xlsx %})) 
-- FPP Pitch Deck Template for Board Presentation ([PowerPoint]({{ site.baseurl }}{% link _pages/documents/fpp-pitch-deck-061118.pptx %})) ([PDF]({{ site.baseurl }}{% link _pages/documents/pdfs/fpp-pitch-deck-061118.pdf %})) 
+- FPP Pitch Deck Template for Board Presentation ([PowerPoint]({{ site.baseurl }}{% link _pages/documents/fpp-pitch-deck-061118.pptx %})) ([PDF]({{ site.baseurl }}{% link _pages/documents/pdfs/fpp-pitch-deck-061118.pdf %}))  
+  (Use of this template is optional)
