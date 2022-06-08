@@ -16,6 +16,8 @@ If you intend to submit a proposal, we encourage you to notify the TMF Program M
 
 ## Requirements to Submit
 
+Interested in feedback before you submit your proposal? Our [intent to apply form](https://touchpoints.app.cloud.gov/touchpoints/cfd21923/submit)  is the best way to informally share your early phase ideas with our team for feedback.
+
 To submit a project to the Board for evaluation, a representative from your agency must complete an [Initial Product Proposal]({{ site.baseurl }}{% link _pages/documents.md %}) (IPP). Initial Project Proposals provide necessary information for the Board to consider a proposed project. The Initial Project Proposals should explain the concept behind the project, its projected impact on agency mission, the strength of the project team and execution strategy, and other foundational details. The proposal template for the IPP is available in the [Documents & Templates]({{ site.baseurl }}{% link _pages/documents.md %}) section of this site. 
 
 ## If You Have Questions or Need Assistance
