@@ -6,8 +6,6 @@ description: "The full process used to determine which solutions are funded by t
 deck: 'The full process used to determine which solutions are funded by the TMF.'
 
 ---
-### 
-
 
 ## Phase Zero: Expression of Interest
 
