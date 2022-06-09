@@ -1,14 +1,11 @@
 ---
 layout: page
-title: Customer Experience Allocation
+title: American Rescue Plan Customer Experience Allocation
 permalink: /cx/
 description: "Guidelines on the Customer Experience Allocation."
 deck: 'Guidelines on the Customer Experience Allocation.'
 
 ---
-
-
-## TMF CUSTOMER EXPERIENCE ALLOCATION FRAMEWORK 
 
 The TMF Board is committed to investing in projects that will deliver a secure, modern, digital-first government experience to the American people. With the TMF funding from ARP, the Board is focused on investing in projects that will lower the “time tax” for the American public when they interact with their government as well as reduce administrative burden for the federal workforce. Projects that cut across agencies and systems, address immediate security gaps, and improve the public’s ability to access and manage government services will be prioritized.
 
@@ -54,6 +51,3 @@ For additional repayment guidance, see https://tmf.cio.gov/arp/.
 
 ### CONTACTS
 - General TMF inquiries: tmf@gsa.gov
-- TMF CX inquiries: [Jessie Posilkin](jessie.posilkin@gsa.gov)
-- OFCIO TMF inquiries: [Mary Keller](mary.w.keller@omb.eop.gov)
-- OFCIO CX inquiries: [Cassie Winters](catherine.a.winters@omb.eop.gov)
