@@ -16,7 +16,7 @@ Guidelines for the American Rescue Plan Funding can be found [here]({{ site.base
 
 The TMF is overseen by the [Technology Modernization Board]({{ site.baseurl }}{% link _pages/board.md %}), comprised of Government IT leaders representing proven expertise in technology, transformation, and operations. Agencies submit IT-related project proposals for the Board to review and consider. Agencies submit technology modernization proposals to the Board through a [two-phased approval process]({{ site.baseurl }}{% link _pages/process.md %}).
 
-### Phase Zero: Expression of Interest (EoI)
+### Phase Zero: Expression of Interest
 Agencies interested in informal feedback before they submit your proposals should fill out the [expression of interest form](https://touchpoints.app.cloud.gov/touchpoints/cfd21923/submit) with their early phase ideas.
 
 ### Phase One: Initial Project Proposal (IPP)
