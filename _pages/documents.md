@@ -1,44 +1,50 @@
----
-layout: page
-title: Documents & Templates
-permalink: /documents/
-description: "The most up-to-date documents and templates related to the TMF."
-
----
-
-The most up-to-date documents and templates related to the TMF can be found below.
-
-## Documents
-
-The Modernizing Government Technology (MGT) Act was passed December 12, 2017 as part of the 2018 National Defense Authorization Act. The following documentation is related to the Technology Modernization Fund.
-
-- [Text of the Modernizing Government Technology (MGT) Act]({{ site.baseurl }}{% link _pages/documents/pdfs/mgt-act-final.pdf %})
-- [M-18-12: Implementation of the Modernizing Government Technology Act]({{ site.baseurl }}{% link _pages/documents/m-18-12.md %})
-- [Funding Guidelines]({{ site.baseurl }}{% link _pages/documents/funding-guidelines.md %})
-- [Additional Considerations]({{ site.baseurl }}{% link _pages/documents/addl-considerations.md %})
 
 
-## Templates
+## TMF CX ALLOCATION FRAMEWORK 
 
-### Phase Zero, Expression of Interest
+The TMF Board is committed to investing in projects that will deliver a secure, modern, digital-first government experience to the American people. With the TMF funding from ARP, the Board is focused on investing in projects that will lower the “time tax” for the American public when they interact with their government as well as reduce administrative burden for the federal workforce. Projects that cut across agencies and systems, address immediate security gaps, and improve the public’s ability to access and manage government services will be prioritized.
 
-Agencies interested in informal feedback before they submit your proposals should fill out the [expression of interest form](https://touchpoints.app.cloud.gov/touchpoints/cfd21923/submit) with their early phase ideas.
+Technology underpins Federal agencies’ ability to deliver services to the public. This requires Federal agency Chief Information Officers (CIOs) to partner with their agency leadership and HISP leadership, and their technology teams, to strategically use technology to support the delivery of an outstanding CX.
 
-### Phase One, Initial Project Proposal (IPP)
 
-Use this template to prepare your initial proposal. 
+### What can they apply for?
+All projects must be grounded in existing customer research, data analysis, and/or customer-driven business needs, to solve identified pain points or delivery impediments. For projects that need early-phase generative research and design, agencies will need to include a research plan as part of their proposal.
 
-Initial Project Proposals selected by the Technology Modernization Board (Board) for further consideration may receive assistance in developing an in-depth proposal and business case to present to the Board. Please avoid the use of acronyms or terminology likely to be unfamiliar to someone outside of your agency and/or program area. Please complete the form using plain language and submit to OMB, as a .docx file, at [ombtmf@omb.eop.gov](mailto:ombtmf@omb.eop.gov). Please limit Initial Project Proposals to 6 pages, using 10 point font (“General Information” excepted).
+### In addition to the [TMF Criteria]({{ site.baseurl }}{% link _pages/criteria.md %}), there are four project areas for priority implementation:
+- Design and delivery of cross-agency life experiences, as sponsored by the President’s Management Council.
+- Improvement of one or two HISP services, as designated for priority improvement through the annual OMB Circular A-11, Section 280 process.
+- Design and delivery of self-service digital tools and services that directly decrease customer call center volume.
+- Technology projects that reduce public and administrative burden, as outlined in OMB M-22-10, Improving Access to Public Benefits Programs Through the Paperwork Reduction Act, or technology projects that advance agencies’ equity action plans, as outlined in Executive Order 13985, Advancing Racial Equity and Support for Underserved Communities Through the Federal Government.
 
-_Do not complete any of the other project proposal templates until the Board has approved your Initial Project Proposal._
+### What outcomes should the projects produce?
 
-- IPP Appendix A Template ([Word]({{ site.baseurl }}{% link _pages/documents/ipp-appendix-a-050321.docx %})) ([PDF]({{ site.baseurl }}{% link _pages/documents/pdfs/ipp-appendix-a-050321.pdf %}))
+Projects should focus on the strategic use of technology to improve customer experience, which includes reducing burden on both the public and agencies, and making improvements to non-digital channels like customer call centers. We expect exceptional proposals that outline specific metrics and measurable goals they aim to achieve.
 
-### Phase Two, Full Project Proposal (FPP)
+### HISP Portfolio-Level Objectives:
 
-Once the Board has approved your IPP, use the templates below to complete your Full Project Proposal (FPP). _Do not complete any of the templates below until the Board has approved your Initial Project Proposal._
+Projects from HISPs should also meet the priority-level success metrics outlined in PMA Priority 2:
+- Increasing experience quality to be on par with the best consumer experiences, or other appropriate comparison.
+	- Target: Move from last into top 10 on Forrester industry ranking.
+- Reducing burden for government’s customers.
+	- Measurement: Focus on designated HISP services (near term).
+	- Measurement: Focus on designated cross-agency life experiences (long term).
+- Improving trust in Government
+	- Target: Achieve 75 percent or higher post-transaction trust in HISPs.
 
-- FPP Appendix A Template ([Word]({{ site.baseurl }}{% link _pages/documents/fpp-appendix-a-061118.docx %})) ([PDF]({{ site.baseurl }}{% link _pages/documents/pdfs/fpp-appendix-a-061118.pdf %})) 
-- FPP Appendix B Template ([Excel]({{ site.baseurl }}{% link _pages/documents/fpp-appendix-b-122220.xlsx %})) 
-- FPP Pitch Deck Template for Board Presentation ([PowerPoint]({{ site.baseurl }}{% link _pages/documents/fpp-pitch-deck-061118.pptx %})) ([PDF]({{ site.baseurl }}{% link _pages/documents/pdfs/fpp-pitch-deck-061118.pdf %}))  
-  (Use of this template is optional)
+### Repayment Guidance
+All proposal requests must indicate expected Return on Investment (ROI), including any direct cost savings over at least a 5-year period, to the best of an agency’s ability. If requesting repayment flexibility (i.e., less than 100% repayment), an agency must show either:
+- Less than 100% direct cost savings over a 5-year period, and/or
+- Justification for some or all of the direct cost savings to go toward reduced user fees, further CX enhancements, or additional deployment and/or growth of shared services. Agencies are expected to use this runway to budget for the sustained reimbursement of these shared services once TMF funds are fully exhausted.
+
+For additional repayment guidance, see https://tmf.cio.gov/arp/.
+
+### When are submissions due?
+- Initial Project Proposals (IPPs) sent by Monday, August 1, 2022 to ombtmf@omb.eop.gov and tmf@gsa.gov will receive expedited consideration. 
+- IPPs will be reviewed on a rolling basis through September 30, 2022. The IPP and other templates can be found at https://tmf.cio.gov/documents/. 
+- If you intend to submit a proposal, please submit your ideas for early feedback through the TMF CX [Expression of Interest form](https://touchpoints.app.cloud.gov/touchpoints/cfd21923/submit). If you submit the form, the TMF Program Management Office may be able to support your team through the entire TMF application and review process.
+
+### CONTACTS
+General TMF inquiries: tmf@gsa.gov
+TMF CX inquiries: Jessie Posilkin, jessie.posilkin@gsa.gov
+OFCIO TMF inquiries: Mary Keller, mary.w.keller@omb.eop.gov
+OFCIO CX inquiries: Cassie Winters, catherine.a.winters@omb.eop.gov 
