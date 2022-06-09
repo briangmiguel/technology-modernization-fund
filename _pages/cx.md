@@ -8,15 +8,14 @@ deck: 'Guidelines on the Customer Experience Allocation.'
 ---
 
 
-
-## TMF CX ALLOCATION FRAMEWORK 
+## TMF CUSTOMER EXPERIENCE ALLOCATION FRAMEWORK 
 
 The TMF Board is committed to investing in projects that will deliver a secure, modern, digital-first government experience to the American people. With the TMF funding from ARP, the Board is focused on investing in projects that will lower the “time tax” for the American public when they interact with their government as well as reduce administrative burden for the federal workforce. Projects that cut across agencies and systems, address immediate security gaps, and improve the public’s ability to access and manage government services will be prioritized.
 
 Technology underpins Federal agencies’ ability to deliver services to the public. This requires Federal agency Chief Information Officers (CIOs) to partner with their agency leadership and HISP leadership, and their technology teams, to strategically use technology to support the delivery of an outstanding CX.
 
 
-### What can they apply for?
+### What can agencies apply for?
 All projects must be grounded in existing customer research, data analysis, and/or customer-driven business needs, to solve identified pain points or delivery impediments. For projects that need early-phase generative research and design, agencies will need to include a research plan as part of their proposal.
 
 ### In addition to the [TMF Criteria]({{ site.baseurl }}{% link _pages/criteria.md %}), there are four project areas for priority implementation:
@@ -32,16 +31,17 @@ Projects should focus on the strategic use of technology to improve customer exp
 ### HISP Portfolio-Level Objectives:
 
 Projects from HISPs should also meet the priority-level success metrics outlined in PMA Priority 2:
-- Increasing experience quality to be on par with the best consumer experiences, or other appropriate comparison.
-	- Target: Move from last into top 10 on Forrester industry ranking.
-- Reducing burden for government’s customers.
-	- Measurement: Focus on designated HISP services (near term).
-	- Measurement: Focus on designated cross-agency life experiences (long term).
-- Improving trust in Government
-	- Target: Achieve 75 percent or higher post-transaction trust in HISPs.
+	1. Increasing experience quality to be on par with the best consumer experiences, or other appropriate comparison.
+		- Target: Move from last into top 10 on Forrester industry ranking.
+	2. Reducing burden for government’s customers.
+		- Measurement: Focus on designated HISP services (near term).
+		- Measurement: Focus on designated cross-agency life experiences (long term).
+	3. Improving trust in Government
+		- Target: Achieve 75 percent or higher post-transaction trust in HISPs.
 
 ### Repayment Guidance
 All proposal requests must indicate expected Return on Investment (ROI), including any direct cost savings over at least a 5-year period, to the best of an agency’s ability. If requesting repayment flexibility (i.e., less than 100% repayment), an agency must show either:
+
 - Less than 100% direct cost savings over a 5-year period, and/or
 - Justification for some or all of the direct cost savings to go toward reduced user fees, further CX enhancements, or additional deployment and/or growth of shared services. Agencies are expected to use this runway to budget for the sustained reimbursement of these shared services once TMF funds are fully exhausted.
 
@@ -54,6 +54,6 @@ For additional repayment guidance, see https://tmf.cio.gov/arp/.
 
 ### CONTACTS
 - General TMF inquiries: tmf@gsa.gov
-- TMF CX inquiries: Jessie Posilkin, jessie.posilkin@gsa.gov
-- OFCIO TMF inquiries: Mary Keller, mary.w.keller@omb.eop.gov
-- OFCIO CX inquiries: Cassie Winters, catherine.a.winters@omb.eop.gov 
+- TMF CX inquiries: [Jessie Posilkin](jessie.posilkin@gsa.gov)
+- OFCIO TMF inquiries: [Mary Keller](mary.w.keller@omb.eop.gov)
+- OFCIO CX inquiries: [Cassie Winters](catherine.a.winters@omb.eop.gov)
