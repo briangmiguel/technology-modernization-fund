@@ -44,7 +44,7 @@ For additional repayment guidance, see https://tmf.cio.gov/arp/.
 - If you intend to submit a proposal, please submit your ideas for early feedback through the TMF CX [Expression of Interest form](https://touchpoints.app.cloud.gov/touchpoints/cfd21923/submit). If you submit the form, the TMF Program Management Office may be able to support your team through the entire TMF application and review process.
 
 ### CONTACTS
-General TMF inquiries: tmf@gsa.gov
-TMF CX inquiries: Jessie Posilkin, jessie.posilkin@gsa.gov
-OFCIO TMF inquiries: Mary Keller, mary.w.keller@omb.eop.gov
-OFCIO CX inquiries: Cassie Winters, catherine.a.winters@omb.eop.gov 
+- General TMF inquiries: tmf@gsa.gov
+- TMF CX inquiries: Jessie Posilkin, jessie.posilkin@gsa.gov
+- OFCIO TMF inquiries: Mary Keller, mary.w.keller@omb.eop.gov
+- OFCIO CX inquiries: Cassie Winters, catherine.a.winters@omb.eop.gov 
