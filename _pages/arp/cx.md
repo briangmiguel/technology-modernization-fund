@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Customer Experience Allocation
-permalink: /arp/cx
+permalink: /arp/cx/
 description: "Guidelines on the Customer Experience Allocation."
 deck: 'Guidelines on the Customer Experience Allocation.'
 
