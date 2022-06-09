@@ -12,6 +12,9 @@
     url: /process/
   - text: "American Rescue Plan"
     url: /arp/
+    sub_nav:
+    - text: "Customer Experience"
+      url: /cx/
 - text: "Submit a Proposal"
   url: /submit/
   sub_nav:
