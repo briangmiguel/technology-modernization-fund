@@ -5,7 +5,7 @@ permalink: /cx/
 description: "Guidelines on the Customer Experience Allocation."
 deck: 'Guidelines on the Customer Experience Allocation.'
 
---
+---
 
 ## TMF CX ALLOCATION FRAMEWORK 
 
