@@ -7,9 +7,6 @@ deck: 'Guidelines on the Customer Experience Allocation.'
 
 ---
 
-
-## TMF CUSTOMER EXPERIENCE ALLOCATION FRAMEWORK 
-
 The TMF Board is committed to investing in projects that will deliver a secure, modern, digital-first government experience to the American people. With the TMF funding from ARP, the Board is focused on investing in projects that will lower the “time tax” for the American public when they interact with their government as well as reduce administrative burden for the federal workforce. Projects that cut across agencies and systems, address immediate security gaps, and improve the public’s ability to access and manage government services will be prioritized.
 
 Technology underpins Federal agencies’ ability to deliver services to the public. This requires Federal agency Chief Information Officers (CIOs) to partner with their agency leadership and HISP leadership, and their technology teams, to strategically use technology to support the delivery of an outstanding CX.
