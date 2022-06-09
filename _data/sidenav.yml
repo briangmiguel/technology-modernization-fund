@@ -14,7 +14,7 @@
     url: /arp/
     sub_nav:
     - text: "Customer Experience"
-      url: /arp/cx/
+      url: /cx/
 - text: "Submit a Proposal"
   url: /submit/
   sub_nav:
