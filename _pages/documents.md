@@ -20,10 +20,6 @@ The Modernizing Government Technology (MGT) Act was passed December 12, 2017 as 
 
 ## Templates
 
-### Phase Zero, Expression of Interest
-
-Agencies interested in informal feedback before they submit your proposals should fill out the [expression of interest form](https://touchpoints.app.cloud.gov/touchpoints/cfd21923/submit) with their early phase ideas.
-
 ### Phase One, Initial Project Proposal (IPP)
 
 Use this template to prepare your initial proposal. 
