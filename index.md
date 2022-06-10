@@ -10,11 +10,14 @@ The Technology Modernization Fund (TMF) was authorized by the Modernizing Govern
 
 Investments receive incremental funding and technical expertise to ensure project success. To date, the TMF has received $175 million through the annual budget process and $1 billion through the American Rescue Plan to fund modernization projects.
 
-Guidelines for the American Rescue Plan Funding can be found [here]({{ site.baseurl }}{% link _pages/arp.md %}).
+Guidelines for the American Rescue Plan Funding can be found [here]({{ site.baseurl }}{% link _pages/arp.md %}). 
 
 ## How the TMF works
 
 The TMF is overseen by the [Technology Modernization Board]({{ site.baseurl }}{% link _pages/board.md %}), comprised of Government IT leaders representing proven expertise in technology, transformation, and operations. Agencies submit IT-related project proposals for the Board to review and consider. Agencies submit technology modernization proposals to the Board through a [two-phased approval process]({{ site.baseurl }}{% link _pages/process.md %}).
+
+### Phase Zero: Expression of Interest
+Agencies interested in informal feedback before they submit your proposals should fill out the [expression of interest form](https://touchpoints.app.cloud.gov/touchpoints/cfd21923/submit) with their early phase ideas.
 
 ### Phase One: Initial Project Proposal (IPP)
 Agencies submit Initial Project Proposals (IPPs), which act as a low burden pre-screen to maximize the number of unique projects the Board can review. Agencies must also confirm that funding for this project has never explicitly been denied or restricted by Congress.

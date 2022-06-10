@@ -7,6 +7,12 @@ deck: 'The full process used to determine which solutions are funded by the TMF.
 
 ---
 
+## Phase Zero: Expression of Interest
+
+- **Agencies get feedback on their ideas through the [Expression of Interest Form](https://touchpoints.app.cloud.gov/touchpoints/cfd21923/submit)**, which is reviewed by the Technology Modernization Program Office.
+
+The [expression of interest form](https://touchpoints.app.cloud.gov/touchpoints/cfd21923/submit) is the best way to determine if an idea is a good fit for the TMF.
+
 ## Phase One: Initial Project Proposal (IPP)
 
 - **Agencies submit Initial Project Proposals (IPPs) using the IPP Template**, which are reviewed by the Technology Modernization Board.
