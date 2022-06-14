@@ -2,7 +2,7 @@
 layout: home
 title: The Technology Modernization Fund
 permalink: /
-description: "A new funding model for Federal technology modernization projects"
+description: "A innovative investment program for Federal technology modernization projects"
 deck: 'The TMF is an innovative funding vehicle that gives agencies additional ways to deliver services to the American public more quickly, better secure sensitive systems and data, and use taxpayer dollars more efficiently.'
 ---
 
@@ -10,7 +10,7 @@ The Technology Modernization Fund (TMF) was authorized by the Modernizing Govern
 
 Investments receive incremental funding and technical expertise to ensure project success. To date, the TMF has received $175 million through the annual budget process and $1 billion through the American Rescue Plan to fund modernization projects.
 
-Guidelines for the American Rescue Plan Funding can be found [here]({{ site.baseurl }}{% link _pages/arp.md %}).
+Guidelines for the American Rescue Plan Funding can be found [here]({{ site.baseurl }}{% link _pages/arp.md %}). 
 
 ## How the TMF works
 
