@@ -7,11 +7,11 @@ deck: 'Guidelines on the Customer Experience Allocation'
 
 ---
 
-The TMF Board is committed to investing in projects that will deliver a secure, modern, digital-first government experience to the American people. With the TMF funding from ARP, the Board is focused on investing in projects that will lower the “time tax” for the American public when they interact with their government as well as reduce administrative burden for the federal workforce. Projects that cut across agencies and systems, address immediate security gaps, and improve the public’s ability to access and manage government services will be prioritized.
+The TMF Board is committed to investing in projects that will deliver a secure, modern, digital-first government experience to the American people. With the TMF funding from the ARP, the Board is focused on investing in projects that will lower the “time tax” for the American public when they interact with their government, as well as reduce administrative burden for the federal workforce. Projects that cut across agencies and systems, address immediate security gaps, and improve the public’s ability to access and manage government services will be prioritized.
 
 Technology underpins Federal agencies’ ability to deliver services to the public. This requires Federal agency Chief Information Officers (CIOs) to partner with their agency leadership and HISP leadership, and their technology teams, to strategically use technology to support the delivery of an outstanding CX.
 
-If you intend to submit a proposal, please submit your ideas for early feedback through the TMF CX [Expression of Interest form](https://touchpoints.app.cloud.gov/touchpoints/cfd21923/submit).
+If you intend to submit a proposal, **please submit your ideas for early feedback** through the TMF CX [Expression of Interest form](https://touchpoints.app.cloud.gov/touchpoints/cfd21923/submit).
 
 ### What should agencies apply for?
 All projects must be grounded in existing customer research, data analysis, and/or customer-driven business needs, to solve identified pain points or delivery impediments. For projects that need early-phase generative research and design, agencies will need to include a research plan as part of their proposal.
@@ -46,9 +46,9 @@ All proposal requests must indicate expected Return on Investment (ROI), includi
 For additional repayment guidance, see [https://tmf.cio.gov/arp/](https://tmf.cio.gov/arp/).
 
 ### When are submissions due?
+- If you intend to submit a proposal, please submit your ideas for early feedback through the TMF CX [Expression of Interest form](https://touchpoints.app.cloud.gov/touchpoints/cfd21923/submit). If you submit the form, the TMF Program Management Office may be able to support your team through the entire TMF application and review process.
 - Initial Project Proposals (IPPs) sent by Monday, August 1, 2022 to [ombtmf@omb.eop.gov](mailto:ombtmf@omb.eop.gov) and [tmf@gsa.gov](mailto:tmf@gsa.gov) will receive expedited consideration. 
 - IPPs will be reviewed on a rolling basis through September 30, 2022. The IPP and other templates can be found on [the documents page]({{ site.baseurl }}{% link _pages/documents.md %}). 
-- If you intend to submit a proposal, please submit your ideas for early feedback through the TMF CX [Expression of Interest form](https://touchpoints.app.cloud.gov/touchpoints/cfd21923/submit). If you submit the form, the TMF Program Management Office may be able to support your team through the entire TMF application and review process.
 
 ### CONTACTS
 - General TMF inquiries: [tmf@gsa.gov](mailto:tmf@gsa.gov)
