@@ -2,8 +2,8 @@
 layout: page
 title: American Rescue Plan Customer Experience Allocation
 permalink: /cx/
-description: "Guidelines on the Customer Experience Allocation."
-deck: 'Guidelines on the Customer Experience Allocation.'
+description: "Guidelines on the Customer Experience Allocation"
+deck: 'Guidelines on the Customer Experience Allocation'
 
 ---
 
