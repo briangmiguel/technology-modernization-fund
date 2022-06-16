@@ -6,9 +6,9 @@ description: "Open roles to join the Technology Modernization Fund team."
 
 ---
 
-## Technology Modernization Fund: Customer Experience Portfolio Technical Leads
+## Technology Modernization Fund: Technical Leads
 
-The Technology Modernization Fund (TMF) is hiring for the role of GS-15 Technical Leads for the [Customer Experience Portfolio](tmf.cio.gov/cx). Technical Leads are crucial to helping the government invest over $1 billion in funding (including through the American Rescue Plan) to modernize government systems. This is an opportunity to make a huge difference in the lives of the public. This page contains a high-level summary of the roles we are trying to fill. 
+The Technology Modernization Fund (TMF) is hiring for the role of GS-15 Technical Leads. Technical Leads are crucial to helping the TMF invest and manage over $1 billion in funding (including through the American Rescue Plan) to modernize government systems. This is an opportunity to make a huge difference in the lives of the public. This page contains a high-level summary of the roles we are trying to fill. 
 
 ### Opportunity overview
 
@@ -30,6 +30,28 @@ These roles will be a great fit for you if you are a:
 - Strong executor that is able to deliver results to agencies and the public
 
 Our ideal candidates will be equally excited about sticky technical issues and intricate human ones. The strongest candidates will have a background working on cross-functional, multidisciplinary teams that deliver digital products and services in an incremental, user-focused environment.
+
+#### Key objectives
+
+**Key objective #1: Provide technical advice to agency leadership and the TMF Board**
+- Collaborate with the TMF Board to develop and execute on strategic investment goals for the overall portfolio
+- Work with agencies to establish and clearly define a vision and business case for their modernization needs and help ensure that agency stakeholders and TMF board members have a shared understanding of the project’s objectives, goals, and metrics
+- Make recommendations for project prioritization and investment decisions, and the technical approach agencies should use
+- Keep up-to-date on policies, commercial trends and best practices
+- Identify and proactively monitor risks, both for the program overall and for individual projects
+- Build and maintain productive relationships with GSA and agency leadership
+
+**Key objective #2: Provide technical leadership and strategic guidance to TMF projects**
+- Understand the mission, user needs, and policy landscape of both  individual projects and the TMF portfolio overall
+- Advocate for and explain agile, open source, and user-centered principles so that teammates, stakeholders, and government partners understand the value these practices bring and have the tools to incorporate them in their work
+- Explain technical issues and concepts clearly to both technical and non-technical audiences
+- Help agencies iteratively deliver value to end-users. Review and revise project direction based on incremental results and milestones, such as the outcome of experiments, prototypes, and usability tests
+- Identify blockers and help agencies improve the speed of delivery
+- Develop new insights into situations and question conventional approaches
+- Identify and analyze problems in a constructive manner, and proactively articulate ways to solve them
+- Work with cross-functional development teams of user researchers, designers, product managers, and engineers to help agencies set and meet impact goals and quality standards
+- Help agencies take a long-term view on what organizational, policy, or process changes are needed to sustain outcomes for the public
+
 
 ### Basic information
 
