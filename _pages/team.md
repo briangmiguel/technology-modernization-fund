@@ -8,7 +8,7 @@ description: "Open roles to join the Technology Modernization Fund team."
 
 ## Technology Modernization Fund: Technical Leads
 
-The Technology Modernization Fund (TMF) is hiring for the role of GS-15 Technical Leads to support the [Customer Experience Portfolio](tmf.cio.gov/cx) and scale the TMF program generally. Technical Leads are crucial to helping the TMF invest and manage over $1 billion in funding (including through the American Rescue Plan) to modernize government systems. This is an opportunity to make a huge difference in the lives of the public. This page contains a high-level summary of the roles we are trying to fill. 
+The Technology Modernization Fund (TMF) is hiring for the role of GS-15 Technical Leads to support the [Customer Experience Portfolio](({{ site.baseurl }}{% link _pages/cx.md %}) and scale the TMF program generally. Technical Leads are crucial to helping the TMF invest and manage over $1 billion in funding (including through the American Rescue Plan) to modernize government systems. This is an opportunity to make a huge difference in the lives of the public. This page contains a high-level summary of the roles we are trying to fill. 
 
 ### Opportunity overview
 
