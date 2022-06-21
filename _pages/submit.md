@@ -13,7 +13,6 @@ Guidelines for the American Rescue Plan Funding can be found [here]({{ site.base
 
 If you intend to submit a proposal, we encourage you to notify the TMF Program Management Office at [tmf@gsa.gov](mailto:tmf@gsa.gov) early so that the PMO is able to support your team through the entire TMF application and review process.
 
-
 ## Requirements to Submit
 
 To submit a project to the Board for evaluation, a representative from your agency must complete an [Initial Product Proposal]({{ site.baseurl }}{% link _pages/documents.md %}) (IPP). Initial Project Proposals provide necessary information for the Board to consider a proposed project. The Initial Project Proposals should explain the concept behind the project, its projected impact on agency mission, the strength of the project team and execution strategy, and other foundational details. The proposal template for the IPP is available in the [Documents & Templates]({{ site.baseurl }}{% link _pages/documents.md %}) section of this site. 
