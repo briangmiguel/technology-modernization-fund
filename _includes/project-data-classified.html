@@ -1,0 +1,6 @@
+<div class="project-details">
+  {% for d in site.data.projects.[include.path] %}
+    <h6>{{ d.agency }}</h6>
+    <p><strong>Overall TMF Investment Amount:</strong> {{ d.totalaward }}</p>
+  {% endfor %}
+</div>

@@ -3,7 +3,7 @@ layout: page
 title: Investments
 permalink: /projects/
 description: "A list of all investments that have been awarded TMF funding."
-deck: "The Technology Modernization Fund has invested in a total of 23 projects across 14 federal agencies. 12 of these investments were made with American Rescue Plan (ARP) funding to address urgent IT modernization challenges."
+deck: "The Technology Modernization Fund has invested in a total of 26 projects across 15 federal agencies. 15 of these investments were made with American Rescue Plan (ARP) funding to address urgent IT modernization challenges."
 
 ---
 
@@ -21,6 +21,9 @@ With Login.gov and MAX.gov, these investments will transform authentication for 
 
 ## List of All Investments
 
+- [**Network Modernization (USDANet) (USDA)**](#network-modernization)
+- [**Multi-Cloud Security Operations Center (FTC)**](#multi-cloud-security-operations-center)
+- [**Information Sharing Modernization (DHS)**](#information-sharing-modernization)
 - [**High Value Asset (HVA) Mission Essential Systems (NARA)**](#high-value-asset-mission-essential-systems)
 - [**Network Monitoring, Detection, and Response (USDA)**](#network-monitoring-detection-and-response)
 - [**Veteran Identity Modernization (VA)**](#veteran-identity-modernization)
@@ -43,8 +46,46 @@ With Login.gov and MAX.gov, these investments will transform authentication for 
 - [**Agricultural Marketing Service Specialty Crops System Modernization (USDA)**](#agricultural-marketing-service-specialty-crops-system-modernization)
 - [**Automated Commercial Environment Collections Module (CBP)**](#automated-commercial-environment-collections-module)
 - [**Data Modernization (DOL)**](#data-modernization)
+- [**Classified Projects**](#classified-projects)
 
-###### Last updated: 5/25/2022
+###### Last updated: 6/10/2022
+
+---
+
+## Network Modernization
+
+{% include project-data.html path="usda-usdanet" %}
+This investment by the TMF in the U.S. Department of Agriculture Network Modernization (USDANet) will deliver an updated, 21st-Century network that enables the USDA to better serve its customers over the next decade and beyond. The current network faces challenges in keeping up with expanded program needs for throughput and security.  With the support of the TMF, the USDA network will greatly improve reliability so that all USDA Mission Areas can meet their program needs. This investment will be used for the USDANet startup costs that reduces the number of USDA-owned and operated networks from 17 to 1 and will result in $734 million in estimated costs savings/avoidance.
+
+Mission Areas like the Food Safety and Inspection Service, which delivers critical food safety data to industry, academia and the public through the Public Health Information System (PHIS), will benefit from faster, more consistent implementation of new security policies. USDANet will offer improved network security and a faster path to Trusted Internet Connection (TIC) 3.0 standards and Zero-Trust Architectures. This is critical in preventing cyber-attacks to operations in programs such as the Food, Nutrition, and Consumer Services which are responsible for the management, security, and distribution of $122 billion in the Supplemental Nutrition Assistance Program (SNAP) for American families experiencing food insecurity.
+
+The lowered total cost of ownership by the USDA means Mission Areas can allocate greater portions of their IT spending from basic infrastructure to public-facing applications that promote conservation, goodwill, and optimization of resources. It also enables USDA’s mission to provide economic opportunity through innovation, promotion of agricultural production that nourishes Americans while also feeding others throughout the world, and preserving our natural resources through conservation, restored forests, improved watersheds, smart agriculture, and healthy private working lands.
+
+---
+
+## Multi-Cloud Security Operations Center
+
+{% include project-data.html path="ftc-multi-cloud-socaas" %}
+This project will keep sensitive law enforcement, corporate competition filing, and American consumer data more secure and resilient to attack. FTC collects data from thousands of corporate merger filings and millions of consumer fraud complaints every year. Along with U.S. and International law enforcement partners, the FTC uses this data to promote competition and protect consumers. The data is under increasingly sophisticated attacks from multiple adversaries.
+
+To accomplish the project’s goal the FTC will procure a security operations center (SOC) as a service that modernizes existing government SOCs and allows for faster decision-making, a reduced vulnerability attack surface, and an improved repeatable foundation for future government-wide implementations of SOC as a Service (SOCaaS). The agency’s current SOC approach, like many others in government, is built for government operated data centers that don’t efficiently scale to address increasing numbers of alerts. 
+
+With the support of this TMF investment, the FTC will expedite its SOCaaS implementation using security services and trusted cloud service providers to host sensitive FTC data. This comprehensive approach will greatly reduce the risk of bad actors executing a ransomware or other cyber attack. It will also reduce the number of man hours currently expended to respond to indicators of cyber incidents. These hours could then be repurposed to continue improvements to the agency’s many operational systems for merger filing review and reporting of fraud. The agency is collaborating on this effort with other federal cyber security leaders, 
+including the Department of Homeland Security, to share best practices.
+
+---
+
+## Information Sharing Modernization
+
+{% include project-data.html path="dhs-info-sharing-mod" %}
+This project will help modernize DHS’ Homeland Security Information Network (HSIN) service to develop an updated and more secure platform for information sharing among first responders, law enforcement, and government partners in the event of natural disasters, security events, and other crises.
+
+Information sharing has been a core mission of DHS since its founding. Fulfilling that mission involves delivering timely intelligence and enabling real-time collaboration across a large and diverse number of organizations including federal, state, local, territorial, tribal, international, and private sector decision-makers, and first responders. HSIN played a pivotal role during the COVID-19 pandemic supporting coordination with hundreds of organizations for vaccine distribution, providing information, and coordinating operations. The network was used by the Federal Emergency Management Agency (FEMA), the Cybersecurity and Infrastructure Security Agency (CISA), the Center for Disease Control (CDC), the Department of Health and Human Services (HHS), and Fusion Centers, as well as additional state and local partners, putting unprecedented pressure on DHS’s decade-old information sharing network and exposing limitations in its ability to manage growth in excess of 200% during the height of the pandemic.
+
+With TMF funding and support, DHS plans to rebuild its information sharing system as a cloud native platform with modern tools and technologies. The new platform will be capable of scaling up to meet peaks in demand during times of emergency while also offering significant new features including improved access and security; better content sharing and discoverability; and greater emphasis on connecting HSIN’s partners to each other for closer collaboration. DHS will also use the TMF investment to build a platform that is more responsive to a post pandemic work environment for users with easy and secure access on mobile platforms and other
+devices.
+
+This investment will accelerate DHS’ modernization of a system that is core to its mission. A system that is more flexible, offers a better user experience, and is less costly to maintain. The operational benefits of this project include building a stronger community of federal, state, local, tribal, territorial, international, and private sector partners for closer coordination, more effective emergency response, and improved national security.
 
 ---
 
@@ -60,7 +101,6 @@ Nearly all of these requested records are only available on paper, stored in rec
 With TMF investment and support, NARA will replace its legacy case management, reporting, and records information systems with cloud-based platforms. Among other benefits, this investment will allow veterans and their families to electronically request and receive their records, while supporting agency customers with greater responsiveness as they transition toward digital recordkeeping. It will also allow NARA staff to fulfill records requests remotely, fully digitally, and in a secure fashion.
 
 This project’s benefits include major improvements in customer experience, decreased processing time for records requests, and improved resilience in the face of future disruptions. By ensuring that NARA can provide Federal records more quickly and reliably, this TMF investment will help citizens to better exercise their rights and more quickly access government benefits to which they are due.
-
 
 ---
 
@@ -94,7 +134,6 @@ This project will modernize the Postal Regulatory Commission’s (PRC) website, 
 The PRC is a small agency with a big mission: independent oversight of the USPS, a global operation that delivered over 128 billion pieces of mail, including over 7 billion packages in FY 2021, and operates more than 34 thousand post offices. The pandemic, workforce shortages, and supply chain disruptions have posed urgent new challenges for the postal system and its ability to provide efficient and effective mail delivery for the American people. These developments and a surge in interest in postal matters have challenged the PRC’s capacity to carry out its mission of ensuring transparency and accountability of the Postal Service and fostering a vital and efficient universal mail system. These new demands have put significant pressure on PRC’s public facing website and docket system. This system is over 20 years old and is at imminent risk of failure. An antiquated data environment and analysis tools also force PRC economists to conduct analyses of massive volumes of data manually, hindering PRC’s ability to quickly and appropriately scale up oversight efforts to address the multiplying challenges.
 
 With TMF funding and support, the PRC team plans to replace its systems with cloud-based applications. The team will develop three key platforms: a new public-facing website, a modern docket system, and a data management system. This investment will empower PRC with the tools it needs to ensure that the USPS remains effective and responsive to the public in the face of unprecedented challenges. The operational benefits of this project include faster and more thorough analysis of data, a more navigable and user-friendly website, and reduced operation and maintenance costs.
-
 
 ---
 
@@ -316,4 +355,16 @@ Currently, DOL faces data quality, consistency, and availability issues which li
 
 Without this funding, DOL could not accelerate development of an enterprise approach to improving data quality and expanding the number of data sets available internally and to the public. However, with the support from the TMF, the project can be advanced as an enterprise initiative over two years, building an essential foundation. By the end of this project, DOL will unlock the department’s enterprise data sources, create data management capacity, and ensure timely delivery of appropriate information to the right DOL staff and customers in a secure manner. This transformation enables an evidence-based decision-making approach across enforcement, compliance, unemployment insurance and other DOL mission areas. The operational benefits of this project include cost savings, increased efficiency, and improved services for the public.
 
-\* *For agencies using an assisted acquisition strategy, reporting does not include funding obligated to the assisted acquisition provider but not yet awarded to a contract.*  
+---
+
+## Classified Projects
+
+{% include project-data-classified.html path="class_proj" %}
+Details on classified projects are not included here. If you have questions about a classified project, please contact [tmf@gsa.gov](mailto:tmf@gsa.gov). 
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
+
+---
+\* *For agencies using an assisted acquisition strategy, reporting does not include funding obligated to the assisted acquisition provider but not yet awarded to a contract.*
+

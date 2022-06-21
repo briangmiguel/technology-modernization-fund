@@ -2,7 +2,7 @@
 layout: home
 title: The Technology Modernization Fund
 permalink: /
-description: "A innovative investment program for Federal technology modernization projects"
+description: "An innovative investment program for Federal technology modernization projects"
 deck: 'The TMF is an innovative funding vehicle that gives agencies additional ways to deliver services to the American public more quickly, better secure sensitive systems and data, and use taxpayer dollars more efficiently.'
 ---
 
